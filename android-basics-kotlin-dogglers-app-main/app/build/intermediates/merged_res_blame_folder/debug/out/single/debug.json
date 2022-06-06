@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_vertical_horizontal_list_item.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/drawable_jake.jpg.flat",
+        "source": "com.example.dogglers.app-main-31:/drawable/jake.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_grid_list_item.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\grid_list_item.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/drawable_nala.jpg.flat",
+        "source": "com.example.dogglers.app-main-31:/drawable/nala.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_horizontal_list.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_horizontal_list.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/layout_vertical_horizontal_list_item.xml.flat",
+        "source": "com.example.dogglers.app-main-31:/layout/vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_bella.jpg.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\bella.jpg"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/drawable_oreo.jpg.flat",
+        "source": "com.example.dogglers.app-main-31:/drawable/oreo.jpg"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/drawable_chase.jpg.flat",
+        "source": "com.example.dogglers.app-main-31:/drawable/chase.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_charlie.jpg.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\charlie.jpg"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/drawable_rollo.jpg.flat",
+        "source": "com.example.dogglers.app-main-31:/drawable/rollo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_vertical_list.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_vertical_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_tzeitel.jpg.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\tzeitel.jpg"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/drawable_snow.jpg.flat",
+        "source": "com.example.dogglers.app-main-31:/drawable/snow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_frankie.jpg.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\frankie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_grid_list.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_grid_list.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/drawable_kali.jpg.flat",
+        "source": "com.example.dogglers.app-main-31:/drawable/kali.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_nox.jpg.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\nox.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_faye.jpg.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\faye.jpg"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/drawable_finn.jpg.flat",
+        "source": "com.example.dogglers.app-main-31:/drawable/finn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_leroy.jpg.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\leroy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_nick.jpg.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\nick.jpg"
+    }
+]

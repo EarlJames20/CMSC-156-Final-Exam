@@ -1,0 +1,1380 @@
+06-05 18:21:10.299  6986  7024 I TestRunner: started: clicking_horizontal_list_button_displays_horizontal_list(com.example.dogglers.ButtonTests)
+06-05 18:21:10.305  6986  7024 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-05 18:21:10.313  1850  5276 D MiuiMultiWindowAdapter: getFreeformBlackList: Origin Logic
+06-05 18:21:10.313  1850  5276 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.miui.miservice, com.xiaomi.calendar, com.android.contacts, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.miui.backup, com.miui.huanji, com.miui.calculator, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health, com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclient, com.miui.securitycore, com.xiaomi.account, com.xiaomi.shop, com.mipay.wallet, com.xiaomi.youpin, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mimoji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.miui.video, com.miui.videoplayer, com.miui.fm, com.miui.packageinstaller, com.mi.android.globallauncher, com.mi.android.globallauncher-poco, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldrun.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mfp.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi, com.tencent.tetris, com.sukhavati.gotoplaying.bubble.BubbleShooter.mint, com.block.puzzle.game.hippo.mi, com.youzu.bs.mi, com.baidu.BaiduMap, com.google.android.googlequicksearchbox, com.appsomniacs.da2, com.android.stk, com.feiyu.carrot3.mi, com.popcap.pvz2cthdxm, com.mxtech.videoplayer.ad, cn.cisc, com.kiloo.subwaysurf, com.cncyj.mostbrain, pdf.tap.scanner, com.og.ttddz.mi, com.ximalaya.ting.lite, com.google.android.apps.podcasts, com.google.android.apps.googleassistant, com.netease.onmyoji.mi, com.netease.onmyoji.bili, com.netease.mrzh.mi, com.netease.mrzh.bili, com.tencent.tmgp.yys.zqb, com.google.android.gm, com.google.android.calendar, com.android.chrome, com.google.android.apps.youtube.music, com.netease.pes.huawei, com.netease.pes.mi, com.netease.pes.bili, com.flyfish.supermario, com.picsart.studio, com.netease.dwrg.mi, com.netease.dwrg.bili, com.netease.dwrg.nearme.gamecenter, com.netease.dwrg, com.netease.dwrg.huawei, com.tencent.tmgp.dwrg, com.netease.dwrg.m4399, com.netease.dwrg.mz, com.netease.dwrg.aligames, com.netease.dwrg.baidu, com.netease.dwrg.qihoo, com.moji.mjweather, com.tencent.tmgp.kof98, com.netease.onmyoji, com.taobao.idlefish, com.ledou.mhhy.mi, com.hzfy.ddzbs.mi, com.qsmy.walkmonkey, com.fy.bzzbc.mi, com.dw.xprqj.mi]
+06-05 18:21:10.843  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5058890, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:10.843  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5058890, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:10.843  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5058890, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:10.843  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:10.844  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:11.456  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5059503, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:11.759  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5059806, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:11.759  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5059806, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:11.759  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5059806, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:11.759  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:11.760  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:11.829  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5059876, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:12.085  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5060132, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:12.085  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5060132, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:12.085  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5060132, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:12.086  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:12.087  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:12.150  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5060197, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:12.293 21271 21375 I AS.CF_nNc: 18:21:12.292[143] request: url = http://www.pullcf.com/config/group/v2
+06-05 18:21:12.561 21271 21375 I AS.CF__Mc: 18:21:12.561[143] sync()  server return jsonArray = []
+06-05 18:21:12.712  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_SummonIn_Opponent(Clone)(Clone)
+06-05 18:21:12.731  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_Enchantment_Positive(Clone)(Clone)
+06-05 18:21:12.731  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_Enchantment_Negative(Clone)(Clone)
+06-05 18:21:12.731  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_Enchantment_Neutral(Clone)(Clone)
+06-05 18:21:12.844  2999  3462 D MI_RIL_OEM_HOOK: onPkHookCommonMsg, msg_id = 65
+06-05 18:21:12.844  2999  3462 D MI_RIL_OEM_HOOK: onGetHookMsgBytes, HOOK_HEAD_SIZE = 16, msg_len = 4
+06-05 18:21:12.844  2999  3462 D MI_RIL_OEM_HOOK: onHookSendSync, phoneId = 0
+06-05 18:21:12.845  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 1
+06-05 18:21:12.845  2930  2930 I QcrilOemhookMsgTunnel: [0]invokeOemRilRequestRaw: serial=2031 length=36
+06-05 18:21:12.885  1793  2006 D XIAOMI_QCRIL: RIL[lib][xiaomi_extend_nvefs.c:52] xiaomi_qmi_result_map: xiaomi_qmi_result_map, old_result 0, new_result 0
+06-05 18:21:12.886  2930  3267 I QcrilOemhookMsgTunnel: [0]processOemHookResponse serial no: 2031 error: 0length=16
+06-05 18:21:12.886  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 2
+06-05 18:21:12.887  2999  3462 D QC_RIL_OEM_HOOK: sendOemRilRequestRaw returns value = 16
+06-05 18:21:12.887  2999  3462 D ModemSarController_8250: type = 65, len = 4, value = 0
+06-05 18:21:12.919  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10162, uidState = 19
+06-05 18:21:12.919  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10081, uidState = 19
+06-05 18:21:13.096  7058  7364 I nightwatch-target: monitor resources last 15000 iteration: 697360 msec
+06-05 18:21:13.553  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5061599, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:13.553  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5061599, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:13.553  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5061599, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:13.553  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:13.553  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:13.607  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5061654, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:13.906  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10148, uidState = 19
+06-05 18:21:14.068  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_Zzz(Clone)(Clone)
+06-05 18:21:14.072  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_BattleCry(Clone)(Clone)
+06-05 18:21:14.256  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:14.256  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:14.258  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:14.264  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:14.264  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 41
+06-05 18:21:14.266  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4259100
+06-05 18:21:14.266  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:14.266  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4259100 powerSaveMode=false
+06-05 18:21:15.939  1103  6927 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:15.939   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:15.940   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:15.940   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:15.940   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:15.940   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:15.940   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:15.940   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:15.940   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:15.940   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:15.940   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:15.940  1103  6927 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:15.941   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:15.941   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:15.941   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:15.941   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:15.941   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:15.941   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:15.941   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:15.941   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:15.941   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:15.941   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:15.959  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_DamageSplat(Clone)(Clone)
+06-05 18:21:15.961  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_DamageSplat(Clone)(Clone)
+06-05 18:21:15.962  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_DamageSplat(Clone)(Clone)
+06-05 18:21:15.963  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_DamageSplat(Clone)(Clone)
+06-05 18:21:16.062  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_Death(Clone)(Clone)
+06-05 18:21:16.104  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_Death(Clone)(Clone)
+06-05 18:21:16.544  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:16.548  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:16.548  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 41
+06-05 18:21:16.548  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:16.548  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:16.552  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4258900
+06-05 18:21:16.552  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:16.552  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4258900 powerSaveMode=false
+06-05 18:21:16.798  3019 17699 I OpenGLRenderer: Davey! duration=9223366972027ms; Flags=0, FrameTimelineVsyncId=470335, IntendedVsync=5064827227022, Vsync=5064827227022, InputEventId=0, HandleInputStart=5064827641867, AnimationStart=5064827644107, PerformTraversalsStart=5064827646242, DrawStart=5064830764367, FrameDeadline=5064860560354, FrameInterval=5064827616971, FrameStartTime=16666666, SyncQueued=5064831455461, SyncStart=5064831571555, IssueDrawCommandsStart=5064831874315, SwapBuffers=5064833569575, FrameCompleted=9223372036854775807, DequeueBufferDuration=35260, QueueBufferDuration=607448, GpuCompleted=9223372036854775807, SwapBuffersCompleted=5064834826034, DisplayPresentTime=0,
+06-05 18:21:17.887  2999  3462 D MI_RIL_OEM_HOOK: onPkHookCommonMsg, msg_id = 65
+06-05 18:21:17.887  2999  3462 D MI_RIL_OEM_HOOK: onGetHookMsgBytes, HOOK_HEAD_SIZE = 16, msg_len = 4
+06-05 18:21:17.887  2999  3462 D MI_RIL_OEM_HOOK: onHookSendSync, phoneId = 0
+06-05 18:21:17.888  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 1
+06-05 18:21:17.889  2930  2930 I QcrilOemhookMsgTunnel: [0]invokeOemRilRequestRaw: serial=2032 length=36
+06-05 18:21:17.928  1793  2006 D XIAOMI_QCRIL: RIL[lib][xiaomi_extend_nvefs.c:52] xiaomi_qmi_result_map: xiaomi_qmi_result_map, old_result 0, new_result 0
+06-05 18:21:17.929  2930  3267 I QcrilOemhookMsgTunnel: [0]processOemHookResponse serial no: 2032 error: 0length=16
+06-05 18:21:17.929  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 2
+06-05 18:21:17.930  2999  3462 D QC_RIL_OEM_HOOK: sendOemRilRequestRaw returns value = 16
+06-05 18:21:17.930  2999  3462 D ModemSarController_8250: type = 65, len = 4, value = 0
+06-05 18:21:17.960  2953  3093 I Unity   : Finish
+06-05 18:21:18.581  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5066628, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:18.581  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5066628, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:18.581  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5066628, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:18.581  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:18.582  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:18.649  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5066695, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:19.578  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Zzz(Clone)(Clone)
+06-05 18:21:19.578  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_DamageSplat(Clone)(Clone)
+06-05 18:21:19.579  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Death(Clone)(Clone)
+06-05 18:21:19.628  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Zzz(Clone)(Clone)
+06-05 18:21:19.628  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_DamageSplat(Clone)(Clone)
+06-05 18:21:19.628  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Death(Clone)(Clone)
+06-05 18:21:21.932  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_SummonOut(Clone)(Clone)
+06-05 18:21:22.194  1850  2634 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=2
+06-05 18:21:22.439  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:22.439  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:22.441  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:22.444  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:22.445  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 41
+06-05 18:21:22.445  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4258000
+06-05 18:21:22.445  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:22.445  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4258000 powerSaveMode=false
+06-05 18:21:22.930  2999  3462 D MI_RIL_OEM_HOOK: onPkHookCommonMsg, msg_id = 65
+06-05 18:21:22.931  2999  3462 D MI_RIL_OEM_HOOK: onGetHookMsgBytes, HOOK_HEAD_SIZE = 16, msg_len = 4
+06-05 18:21:22.931  2999  3462 D MI_RIL_OEM_HOOK: onHookSendSync, phoneId = 0
+06-05 18:21:22.932  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 1
+06-05 18:21:22.932  2930  2930 I QcrilOemhookMsgTunnel: [0]invokeOemRilRequestRaw: serial=2033 length=36
+06-05 18:21:22.972  1793  2006 D XIAOMI_QCRIL: RIL[lib][xiaomi_extend_nvefs.c:52] xiaomi_qmi_result_map: xiaomi_qmi_result_map, old_result 0, new_result 0
+06-05 18:21:22.973  2930  3267 I QcrilOemhookMsgTunnel: [0]processOemHookResponse serial no: 2033 error: 0length=16
+06-05 18:21:22.973  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 2
+06-05 18:21:22.974  2999  3462 D QC_RIL_OEM_HOOK: sendOemRilRequestRaw returns value = 16
+06-05 18:21:22.974  2999  3462 D ModemSarController_8250: type = 65, len = 4, value = 0
+06-05 18:21:23.742  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5071789, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:23.742  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5071789, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:23.742  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5071789, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:23.743  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:23.743  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:23.791  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5071838, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:23.866  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Enchantment_Positive(Clone)(Clone)
+06-05 18:21:23.866  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Enchantment_Negative(Clone)(Clone)
+06-05 18:21:23.867  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Enchantment_Neutral(Clone)(Clone)
+06-05 18:21:23.867  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Trigger_Quick(Clone)(Clone)
+06-05 18:21:23.867  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_BattleCry(Clone)(Clone)
+06-05 18:21:23.867  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Zzz(Clone)(Clone)
+06-05 18:21:23.868  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_DamageSplat(Clone)(Clone)
+06-05 18:21:23.868  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_SummonOut(Clone)(Clone)
+06-05 18:21:23.981  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5072028, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:23.981  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5072028, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:23.981  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5072028, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:23.981  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:23.981  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:24.032  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5072079, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:24.241  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10125, uidState = 19
+06-05 18:21:24.989  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10319, uidState = 19
+06-05 18:21:25.300  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5073347, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:25.300  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5073347, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:25.300  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5073347, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:25.300  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:25.302  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:25.349  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5073396, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:25.613  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5073660, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:25.613  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5073660, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:25.613  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:25.613  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:25.613  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5073660, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:25.642  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5073689, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:25.939  1103  1103 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:25.939   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:25.940   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:25.940   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:25.940   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:25.940   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:25.940   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:25.940   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:25.940   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:25.940   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:25.940   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:25.941  1103  1103 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:25.941   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:25.941   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:25.941   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:25.941   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:25.941   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:25.941   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:25.941   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:25.941   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:25.941   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:25.941   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:26.063  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5074110, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:26.064  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5074110, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:26.064  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5074110, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:26.064  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:26.064  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:26.119  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5074167, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:26.765  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5074812, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:26.765  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5074812, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:26.765  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5074812, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:26.765  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:26.766  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:26.827  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5074874, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:27.202  1850  2634 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=2
+06-05 18:21:27.789  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10157, uidState = 19
+06-05 18:21:27.974  2999  3462 D MI_RIL_OEM_HOOK: onPkHookCommonMsg, msg_id = 65
+06-05 18:21:27.975  2999  3462 D MI_RIL_OEM_HOOK: onGetHookMsgBytes, HOOK_HEAD_SIZE = 16, msg_len = 4
+06-05 18:21:27.975  2999  3462 D MI_RIL_OEM_HOOK: onHookSendSync, phoneId = 0
+06-05 18:21:27.976  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 1
+06-05 18:21:27.976  2930  2930 I QcrilOemhookMsgTunnel: [0]invokeOemRilRequestRaw: serial=2034 length=36
+06-05 18:21:28.015  1793  2006 D XIAOMI_QCRIL: RIL[lib][xiaomi_extend_nvefs.c:52] xiaomi_qmi_result_map: xiaomi_qmi_result_map, old_result 0, new_result 0
+06-05 18:21:28.017  2930  3267 I QcrilOemhookMsgTunnel: [0]processOemHookResponse serial no: 2034 error: 0length=16
+06-05 18:21:28.017  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 2
+06-05 18:21:28.018  2999  3462 D QC_RIL_OEM_HOOK: sendOemRilRequestRaw returns value = 16
+06-05 18:21:28.018  2999  3462 D ModemSarController_8250: type = 65, len = 4, value = 0
+06-05 18:21:29.090  7043  7110 W System.err: DEBUG: com.whatsapp.net.logging.a.a(WtLog.java:10) : Received Alert: Level 2 Description close_notify(0)
+06-05 18:21:29.162  7043  7250 W System.err: INFO: com.whatsapp.net.logging.a.a(WtLog.java:10) : Start handshake.
+06-05 18:21:29.230  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5077277, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:29.230  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5077277, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:29.231  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5077277, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:29.232  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:29.232  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:29.246  7043  7250 W System.err: INFO: com.whatsapp.net.logging.a.a(WtLog.java:10) : Handshake complete : session_resumed false early_data_sent false early_data_accepted false client_cert_requested false time_ms 84
+06-05 18:21:29.305  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:29.306  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:29.307  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:29.307  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:29.307  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:29.307  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:29.307  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:29.307  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:29.308  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:29.308  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:29.308  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:29.308  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:29.308  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:29.308  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:29.308  1850  1941 D PerfImpl: perfLockRelease
+06-05 18:21:29.347  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_Friendly_Attack(Clone)(Clone)
+06-05 18:21:29.578  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5077625, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:29.579  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:29.580  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:29.580  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:29.580  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:29.580  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:29.580  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:29.580  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:29.581  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:29.581  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:29.581  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:29.581  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:29.581  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:29.581  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:29.582  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:29.582  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:29.582  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:29.582  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:29.582  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:29.582  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:29.582  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:29.582  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:29.582  1850  1941 D PerfImpl: perfLockRelease
+06-05 18:21:30.015 31931  6075 V ContactsTaskScheduler: [ContactsPackageMonitor] Thread[Worker-1,5,main] stopping...
+06-05 18:21:30.319  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5078366, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:30.319  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5078366, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:30.319  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5078366, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:30.320  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:30.320  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:30.394  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:30.394  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:30.394  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:30.394  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:30.394  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:30.394  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:30.394  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:30.394  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:30.394  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:30.394  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:30.394  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:30.394  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:30.395  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:30.395  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:30.395  1850  1941 D PerfImpl: perfLockRelease
+06-05 18:21:30.483  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5078530, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:30.484  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:30.485  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:30.485  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:30.485  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:30.485  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:30.485  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:30.485  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:30.486  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:30.486  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:30.486  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:30.486  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:30.486  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:30.486  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:30.486  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:30.486  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:30.486  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:30.486  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:30.486  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:30.486  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:30.487  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:30.487  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:30.487  1850  1941 D PerfImpl: perfLockRelease
+06-05 18:21:30.492  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Hand_Ability_PowerUp(Clone)(Clone)
+06-05 18:21:30.627  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:30.628  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:30.629  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:30.632  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:30.633  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 41
+06-05 18:21:30.634  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4257200
+06-05 18:21:30.634  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:30.634  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4257200 powerSaveMode=false
+06-05 18:21:31.131  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5079177, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:31.131  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5079177, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:31.131  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5079177, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:31.131  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:31.132  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:31.187  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5079234, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:31.842  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_DamageSplat(Clone)(Clone)
+06-05 18:21:32.171  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_Death(Clone)(Clone)
+06-05 18:21:32.803  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5080850, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:32.803  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5080850, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:32.803  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5080850, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:32.803  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:32.804  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:32.893  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5080940, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:32.917  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:32.919  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4256900
+06-05 18:21:32.919  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:32.919  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4256900 powerSaveMode=false
+06-05 18:21:32.920  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:32.920  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 41
+06-05 18:21:32.921  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:32.921  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:33.018  2999  3462 D MI_RIL_OEM_HOOK: onPkHookCommonMsg, msg_id = 65
+06-05 18:21:33.018  2999  3462 D MI_RIL_OEM_HOOK: onGetHookMsgBytes, HOOK_HEAD_SIZE = 16, msg_len = 4
+06-05 18:21:33.018  2999  3462 D MI_RIL_OEM_HOOK: onHookSendSync, phoneId = 0
+06-05 18:21:33.019  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 1
+06-05 18:21:33.019  2930  2930 I QcrilOemhookMsgTunnel: [0]invokeOemRilRequestRaw: serial=2035 length=36
+06-05 18:21:33.059  1793  2006 D XIAOMI_QCRIL: RIL[lib][xiaomi_extend_nvefs.c:52] xiaomi_qmi_result_map: xiaomi_qmi_result_map, old_result 0, new_result 0
+06-05 18:21:33.060  2930  3267 I QcrilOemhookMsgTunnel: [0]processOemHookResponse serial no: 2035 error: 0length=16
+06-05 18:21:33.061  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 2
+06-05 18:21:33.062  2999  3462 D QC_RIL_OEM_HOOK: sendOemRilRequestRaw returns value = 16
+06-05 18:21:33.062  2999  3462 D ModemSarController_8250: type = 65, len = 4, value = 0
+06-05 18:21:33.779  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5081826, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:33.779  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5081826, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:33.780  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5081826, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:33.780  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:33.780  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:34.423  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5082470, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:34.956  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5083003, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:34.956  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5083003, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:34.956  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5083003, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:34.956  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:34.956  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:34.968  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Hand_Ability_SpellPower_HintBurst(Clone)(Clone)
+06-05 18:21:34.973  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Hand_Ability_SpellPower_Hint(Clone)(Clone)
+06-05 18:21:35.559  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5083606, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:35.677  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_SummonIn_Opponent(Clone)(Clone)
+06-05 18:21:35.677  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Enchantment_Positive(Clone)(Clone)
+06-05 18:21:35.677  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Enchantment_Negative(Clone)(Clone)
+06-05 18:21:35.678  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Enchantment_Neutral(Clone)(Clone)
+06-05 18:21:35.678  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Zzz(Clone)(Clone)
+06-05 18:21:35.678  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_BattleCry(Clone)(Clone)
+06-05 18:21:35.678  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_DamageSplat(Clone)(Clone)
+06-05 18:21:35.679  2953  3093 I Unity   : [Spell Pooling] Released: Card_Play_Ally_Death(Clone)(Clone)
+06-05 18:21:35.729  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5083776, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:35.729  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5083776, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:35.729  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5083776, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:35.729  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:35.730  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:35.742  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Hand_Ability_SpellPower_HintBurst(Clone)(Clone)
+06-05 18:21:35.742  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Hand_Ability_SpellPower_Hint(Clone)(Clone)
+06-05 18:21:35.955  1103  6927 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:35.955   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:35.956   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:35.956   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:35.956   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:35.956   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:35.956   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:35.956   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:35.956   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:35.956   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:35.956   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:35.956  1103  6927 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:35.957   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:35.957   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:35.957   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:35.957   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:35.957   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:35.957   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:35.957   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:35.957   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:35.957   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:35.957   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:36.016  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5084063, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:36.038  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:36.040  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:36.041  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4256500
+06-05 18:21:36.041  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:36.041  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4256500 powerSaveMode=false
+06-05 18:21:36.042  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 41
+06-05 18:21:36.042  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:36.043  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:36.853  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5084900, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:36.853  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5084900, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:36.853  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5084900, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:36.853  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:36.854  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:37.258  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5085305, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:37.654  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5085701, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:37.654  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5085701, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:37.654  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5085701, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:37.654  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:37.655  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:38.062  2999  3462 D MI_RIL_OEM_HOOK: onPkHookCommonMsg, msg_id = 65
+06-05 18:21:38.062  2999  3462 D MI_RIL_OEM_HOOK: onGetHookMsgBytes, HOOK_HEAD_SIZE = 16, msg_len = 4
+06-05 18:21:38.062  2999  3462 D MI_RIL_OEM_HOOK: onHookSendSync, phoneId = 0
+06-05 18:21:38.063  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 1
+06-05 18:21:38.063  2930  2930 I QcrilOemhookMsgTunnel: [0]invokeOemRilRequestRaw: serial=2036 length=36
+06-05 18:21:38.103  1793  2006 D XIAOMI_QCRIL: RIL[lib][xiaomi_extend_nvefs.c:52] xiaomi_qmi_result_map: xiaomi_qmi_result_map, old_result 0, new_result 0
+06-05 18:21:38.104  2930  3267 I QcrilOemhookMsgTunnel: [0]processOemHookResponse serial no: 2036 error: 0length=16
+06-05 18:21:38.105  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 2
+06-05 18:21:38.105  2999  3462 D QC_RIL_OEM_HOOK: sendOemRilRequestRaw returns value = 16
+06-05 18:21:38.105  2999  3462 D ModemSarController_8250: type = 65, len = 4, value = 0
+06-05 18:21:38.188  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5086235, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:38.627  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5086674, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:38.627  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5086674, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:38.627  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5086674, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:38.628  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:38.628  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:38.821  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:38.822  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:38.822  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:38.823  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:38.824  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4256200
+06-05 18:21:38.824  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:38.824  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4256200 powerSaveMode=false
+06-05 18:21:38.824  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 41
+06-05 18:21:38.897  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:38.897  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:38.897  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:38.897  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:38.897  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:38.898  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:38.898  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:38.898  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:38.898  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:38.898  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:38.898  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:38.898  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:38.898  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:38.898  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:38.899  1850  1941 D PerfImpl: perfLockRelease
+06-05 18:21:39.005  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5087052, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:39.006  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:39.006  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:39.006  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:39.006  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:39.006  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:39.007  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:39.007  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:39.007  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:39.007  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:39.007  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:39.007  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:39.008  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:39.008  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:39.008  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:39.008  1850  1941 D PerfImpl: perfGetWorkLoadType
+06-05 18:21:39.008  1034  1034 E vendor.qti.hardware.perf@2.2-service: Unknown params
+06-05 18:21:39.008  1034  1034 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+06-05 18:21:39.008  1034  1034 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+06-05 18:21:39.008  1034  1034 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+06-05 18:21:39.008  1034  1034 D ANDR-PERF-LM: Feature: getData() 112: data.data = 2
+06-05 18:21:39.008  1034  1034 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.blizzard.wtcg.hearthstone feature:AppClassifier feedback = 2
+06-05 18:21:39.008  1850  1941 D PerfImpl: perfLockRelease
+06-05 18:21:39.265   689  7253 I keystore2: keystore2::watchdog: Watchdog thread idle -> terminating. Have a great day.
+06-05 18:21:40.143  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10240, uidState = 19
+06-05 18:21:40.620  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_Zzz(Clone)(Clone)
+06-05 18:21:40.624  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Play_Ally_BattleCry(Clone)(Clone)
+06-05 18:21:41.066  3143  7255 W GCM     : Heartbeat timeout, GCM connection reset -6
+06-05 18:21:41.079  3143  7255 E WakeLock: GCM_HB_ALARM release without a matched acquire!
+06-05 18:21:41.079  3143  7255 W WakeLock: GCM_HB_ALARM counter does not exist
+06-05 18:21:41.080  1850  2648 D ConnectivityService: reportNetworkConnectivity(101, false) by 10188
+06-05 18:21:41.082  2897 15725 D NetworkMonitor/101: Forcing reevaluation for UID 10188. Dns signal count: 0
+06-05 18:21:41.103  2897  7260 D NetworkMonitor/101: PROBE_DNS connectivitycheck.gstatic.com 14ms OK 142.250.199.67
+06-05 18:21:41.139  3143 28932 I NetworkManagementSocketTagger: tagSocketFd(-1, 805307399, -1) failed with errno-9
+06-05 18:21:41.168  2897  7259 D NetworkMonitor/101: PROBE_DNS www.google.com 79ms OK 142.250.204.100
+06-05 18:21:41.213  2897  7260 D NetworkMonitor/101: PROBE_HTTP http://connectivitycheck.gstatic.com/generate_204 time=107ms ret=204 request={Connection=[close], User-Agent=[Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36]} headers={null=[HTTP/1.1 204 No Content], Connection=[close], Content-Length=[0], Date=[Sun, 05 Jun 2022 10:21:41 GMT], X-Android-Received-Millis=[1654424501212], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1654424501155]}
+06-05 18:21:41.411  2897  7259 D NetworkMonitor/101: PROBE_HTTPS https://www.google.com/generate_204 time=240ms ret=204 request={Connection=[close], User-Agent=[Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36]} headers={null=[HTTP/1.1 204 No Content], Alt-Svc=[h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"], Connection=[close], Content-Length=[0], Date=[Sun, 05 Jun 2022 10:21:41 GMT], X-Android-Received-Millis=[1654424501409], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1654424501292]}
+06-05 18:21:41.413  2897  7258 D NetworkMonitor/101: isCaptivePortal: isSuccessful()=true isPortal()=false RedirectUrl=null isPartialConnectivity()=false Time=328ms
+06-05 18:21:41.419  1850  2648 D ConnectivityService: [101 WIFI] validation passed
+06-05 18:21:41.474  3143  7255 E WakeLock: GCM_CONN_ALARM release without a matched acquire!
+06-05 18:21:41.500  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10210, uidState = 11
+06-05 18:21:41.504  3143  7255 W ChimeraUtils: Module com.google.android.gms.gcm has empty metadata display_name_string_id
+06-05 18:21:41.532  3143  7255 W ChimeraUtils: Module com.google.android.gms.gcm has empty metadata display_name_string_id
+06-05 18:21:41.536   859   859 D Zygote  : Forked child process 7276
+06-05 18:21:41.553  7276  7276 E android:channe: Not starting debugger since process cannot load the jdwp agent.
+06-05 18:21:41.554  3143  7255 W ChimeraUtils: Module com.google.android.gms.gcm has empty metadata display_name_string_id
+06-05 18:21:41.558  7276  7276 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+06-05 18:21:41.572  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10269, uidState = 11
+06-05 18:21:41.578  7276  7276 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10269; state: DISABLED
+06-05 18:21:41.582  5193  5217 W MQSService: CallerName:com.lazada.android,calling Uid:10269
+06-05 18:21:41.582  5193  5217 D MQSService: registerApplicationScoutThread pid = 7276, packageName = com.lazada.android
+06-05 18:21:41.727  7276  7276 W android:channe: Entry not found
+06-05 18:21:41.727  7276  7276 W android:channe: Entry not found
+06-05 18:21:41.732  7276  7276 W android:channe: Entry not found
+06-05 18:21:41.732  7276  7276 W android:channe: Entry not found
+06-05 18:21:41.735  7276  7276 W android:channe: Entry not found
+06-05 18:21:41.735  7276  7276 W android:channe: Entry not found
+06-05 18:21:41.738  7276  7276 W android:channe: JIT profile information will not be recorded: profile file does not exist.
+06-05 18:21:41.739  7276  7276 W android:channe: JIT profile information will not be recorded: profile file does not exist.
+06-05 18:21:41.740  7276  7276 W android:channe: JIT profile information will not be recorded: profile file does not exist.
+06-05 18:21:41.740  7276  7276 W android:channe: JIT profile information will not be recorded: profile file does not exist.
+06-05 18:21:41.740  7276  7276 W android:channe: JIT profile information will not be recorded: profile file does not exist.
+06-05 18:21:41.740  7276  7276 W android:channe: JIT profile information will not be recorded: profile file does not exist.
+06-05 18:21:41.743  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10210, uidState = 19
+06-05 18:21:41.747  7276  7276 V GraphicsEnvironment: ANGLE Developer option for 'com.lazada.android' set to: 'default'
+06-05 18:21:41.747  7276  7276 V GraphicsEnvironment: Updatable production driver is not supported on the device.
+06-05 18:21:41.749  7276  7276 D OpenGLRenderer: JNI_OnLoad success
+06-05 18:21:41.749  7276  7276 I MiuiForceDarkConfig: setConfig density:2.750000, mainRule:0, secondaryRule:0, tertiaryRule:0
+06-05 18:21:41.750  7276  7276 I LoadedApk: No resource references to update in package com.lazada.android.lazandroid_uc_dynamic
+06-05 18:21:41.750  7276  7276 I LoadedApk: No resource references to update in package com.lazada.android.lazandroid_live_rts
+06-05 18:21:41.752  7276  7276 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-05 18:21:41.752  7276  7276 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+06-05 18:21:41.779  7276  7276 W android:channel: type=1400 audit(0.0:5640): avc: denied { read } for name="version" dev="proc" ino=4026532263 scontext=u:r:untrusted_app:s0:c13,c257,c512,c768 tcontext=u:object_r:proc_version:s0 tclass=file permissive=0 app=com.lazada.android
+06-05 18:21:41.785  7276  7276 I crashsdk: LibcMalloc detail: disabled.
+06-05 18:21:41.789  1850  5955 D ConnectivityService: Returning UNBLOCKED NetworkInfo to uid=10269
+06-05 18:21:41.799  7276  7276 E Switch  : qwh = true,fb = true,sp = 3
+06-05 18:21:41.800  7276  7276 E setPendingWorkFinishers: high version
+06-05 18:21:41.800  7276  7276 E com.facebook.FacebookSdk: enable = true
+06-05 18:21:41.823  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10269, uidState = 10
+06-05 18:21:41.827  7313  7313 W ps      : type=1400 audit(0.0:5641): avc: denied { read } for name="pid_max" dev="proc" ino=670060 scontext=u:r:untrusted_app:s0:c13,c257,c512,c768 tcontext=u:object_r:proc_pid_max:s0 tclass=file permissive=0 app=com.lazada.android
+06-05 18:21:41.835  7276  7276 E ReceiveMgr: isOpen =true
+06-05 18:21:41.835  7276  7276 W CrashSDKBkgdHan: type=1400 audit(0.0:5642): avc: denied { read } for name="loadavg" dev="proc" ino=4026532259 scontext=u:r:untrusted_app:s0:c13,c257,c512,c768 tcontext=u:object_r:proc_loadavg:s0 tclass=file permissive=0 app=com.lazada.android
+06-05 18:21:41.885   859   859 D Zygote  : Forked child process 7392
+06-05 18:21:41.902  7392  7392 E ppmine.poetize: Not starting debugger since process cannot load the jdwp agent.
+06-05 18:21:41.905  7392  7392 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+06-05 18:21:41.916  7276  7374 I FA      : App measurement initialized, version: 31000
+06-05 18:21:41.916  7276  7374 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+06-05 18:21:41.916  7276  7374 I FA      : To enable faster debug mode event logging run:
+06-05 18:21:41.916  7276  7374 I FA      :   adb shell setprop debug.firebase.analytics.app com.lazada.android
+06-05 18:21:41.918  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10291, uidState = 11
+06-05 18:21:41.925  5193  5217 W MQSService: CallerName:cz.appmine.poetizer,calling Uid:10291
+06-05 18:21:41.925  7392  7392 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10291; state: ENABLED
+06-05 18:21:41.925  5193  5217 D MQSService: registerApplicationScoutThread pid = 7392, packageName = cz.appmine.poetizer
+06-05 18:21:41.931  5121  5496 E MediaProvider: Creating a non-default top level directory or deleting an existing one is not allowed!
+06-05 18:21:41.934  5121  5480 E MediaProvider: Creating a non-default top level directory or deleting an existing one is not allowed!
+06-05 18:21:41.945  4385  4385 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+06-05 18:21:41.945  4385  4385 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+06-05 18:21:41.947  5121  5480 E MediaProvider: Creating a non-default top level directory or deleting an existing one is not allowed!
+06-05 18:21:41.953  5121  5496 E MediaProvider: Creating a non-default top level directory or deleting an existing one is not allowed!
+06-05 18:21:41.960  5121  5480 E MediaProvider: Creating a non-default top level directory or deleting an existing one is not allowed!
+06-05 18:21:42.000  7392  7392 W ppmine.poetize: Entry not found
+06-05 18:21:42.001  7392  7392 W ppmine.poetize: Entry not found
+06-05 18:21:42.002  7392  7392 W ppmine.poetize: Entry not found
+06-05 18:21:42.005  7392  7392 W ppmine.poetize: JIT profile information will not be recorded: profile file does not exist.
+06-05 18:21:42.005  7392  7392 W ppmine.poetize: JIT profile information will not be recorded: profile file does not exist.
+06-05 18:21:42.005  7392  7392 W ppmine.poetize: JIT profile information will not be recorded: profile file does not exist.
+06-05 18:21:42.005  7276  7307 W IconCustomizer: can't load transform_config.xml
+06-05 18:21:42.013  7392  7392 V GraphicsEnvironment: ANGLE Developer option for 'cz.appmine.poetizer' set to: 'default'
+06-05 18:21:42.013  7392  7392 V GraphicsEnvironment: Updatable production driver is not supported on the device.
+06-05 18:21:42.015  7392  7392 D OpenGLRenderer: JNI_OnLoad success
+06-05 18:21:42.015  7392  7392 I MiuiForceDarkConfig: setConfig density:2.750000, mainRule:0, secondaryRule:0, tertiaryRule:0
+06-05 18:21:42.016  7392  7392 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-05 18:21:42.016  7392  7392 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-05 18:21:42.019  7392  7392 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+06-05 18:21:42.022  7392  7392 I FirebaseCrashlytics: Initializing Firebase Crashlytics 18.2.6 for cz.appmine.poetizer
+06-05 18:21:42.026  7392  7450 I FirebaseAuth: [FirebaseAuth:] Preparing to create service connection to fallback implementation
+06-05 18:21:42.037  7276  7307 D IconCustomizer: Content Ratio = -1.0
+06-05 18:21:42.046  7276  7307 D IconCustomizer: Generate customized icon for com.lazada.android.png
+06-05 18:21:42.046  7392  7392 I FirebaseInitProvider: FirebaseApp initialization successful
+06-05 18:21:42.055  7392  7454 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:64 and remote module com.google.android.gms.measurement.dynamite:72
+06-05 18:21:42.055  7392  7454 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 72
+06-05 18:21:42.055  7392  7454 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+06-05 18:21:42.083  7392  7392 D WM-WrkMgrInitializer: Initializing WorkManager with default configuration.
+06-05 18:21:42.087  7392  7392 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app cz.appmine.poetizer
+06-05 18:21:42.090  7392  7392 D AppsFlyer_6.4.2: Initializing AppsFlyer SDK: (v6.4.2.130)
+06-05 18:21:42.091  3143 11074 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+06-05 18:21:42.091  3143 11074 I FontLog : Query [Noto Color Emoji Compat] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+06-05 18:21:42.101  3143 11074 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+06-05 18:21:42.103  7392  7392 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+06-05 18:21:42.103  7392  7392 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+06-05 18:21:42.105  7392  7473 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10291; state: ENABLED
+06-05 18:21:42.106  3143 11228 I FontLog : Pulling font file for id = 27, cache size = 4 [CONTEXT service_id=132 ]
+06-05 18:21:42.109  1850  5955 D ConnectivityService: requestNetwork for uid/pid:1000/1850 asUid: 10291 activeRequest: null callbackRequest: 379 [NetworkRequest [ REQUEST id=380, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10291 RequestorUid: 1000 RequestorPkg: android UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647
+06-05 18:21:42.110  1850  2648 D ConnectivityService: NetReassign [380 : null → 101]
+06-05 18:21:42.111  7392  7491 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+06-05 18:21:42.111  7392  7495 W com.facebook.internal.NativeProtocol: Apps that target Android API 30+ (Android 11+) cannot call Facebook native apps unless the package visibility needs are declared. Please follow https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988 to make the declaration.
+06-05 18:21:42.112  7392  7493 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+06-05 18:21:42.118  7392  7494 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+06-05 18:21:42.120  3143 11228 I FontLog : Pulling font file for id = 27, cache size = 4 [CONTEXT service_id=132 ]
+06-05 18:21:42.122  1850  2636 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=380, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10291 RequestorUid: 1000 RequestorPkg: android UnderlyingNetworks: Null] ]
+06-05 18:21:42.122  1850  2636 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=380, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10291 RequestorUid: 1000 RequestorPkg: android UnderlyingNetworks: Null] ]
+06-05 18:21:42.122  1850  2636 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=380, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10291 RequestorUid: 1000 RequestorPkg: android UnderlyingNetworks: Null] ]
+06-05 18:21:42.136  7392  7485 I FA      : App measurement initialized, version: 63020
+06-05 18:21:42.136  7392  7485 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+06-05 18:21:42.136  7392  7485 I FA      : To enable faster debug mode event logging run:
+06-05 18:21:42.136  7392  7485 I FA      :   adb shell setprop debug.firebase.analytics.app cz.appmine.poetizer
+06-05 18:21:42.148  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10291, uidState = 10
+06-05 18:21:42.157  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10375, uidState = 15
+06-05 18:21:42.170  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10375, uidState = 10
+06-05 18:21:42.199  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10291, uidState = 19
+06-05 18:21:42.231  1850  6677 D ConnectivityService: requestNetwork for uid/pid:10269/7276 activeRequest: null callbackRequest: 381 [NetworkRequest [ REQUEST id=382, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10269 RequestorUid: 10269 RequestorPkg: com.lazada.android UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647
+06-05 18:21:42.232  1850  2648 D ConnectivityService: NetReassign [382 : null → 101]
+06-05 18:21:42.234  1850  2636 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=382, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10269 RequestorUid: 10269 RequestorPkg: com.lazada.android UnderlyingNetworks: Null] ]
+06-05 18:21:42.234  1850  2636 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=382, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10269 RequestorUid: 10269 RequestorPkg: com.lazada.android UnderlyingNetworks: Null] ]
+06-05 18:21:42.235  1850  2636 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=382, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10269 RequestorUid: 10269 RequestorPkg: com.lazada.android UnderlyingNetworks: Null] ]
+06-05 18:21:42.292  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10375, uidState = 15
+06-05 18:21:42.304  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10375, uidState = 10
+06-05 18:21:42.310  7058  7664 W msgr.MobileConfigFactoryImpl: SESSIONBASED factory used for SESSIONLESS param
+06-05 18:21:42.311  7058  7664 W msgr.MobileConfigFactoryImpl: SESSIONBASED factory used for SESSIONLESS param
+06-05 18:21:42.311  7058  7664 W msgr.MobileConfigFactoryImpl: SESSIONBASED factory used for SESSIONLESS param
+06-05 18:21:42.311  7058  7664 W msgr.MobileConfigFactoryImpl: SESSIONBASED factory used for SESSIONLESS param
+06-05 18:21:42.311  7058  7664 W msgr.MobileConfigFactoryImpl: SESSIONBASED factory used for SESSIONLESS param
+06-05 18:21:42.311  7058  7664 W msgr.MobileConfigFactoryImpl: SESSIONBASED factory used for SESSIONLESS param
+06-05 18:21:42.312  7058  7193 W msgr.lacrima: Soft error detector missing: MobileConfigFactoryImpl: invalid specifier SESSIONBASED factory used for SESSIONLESS param, skipping
+06-05 18:21:42.312  7058  7193 W msgr.lacrima: Soft error detector missing: MobileConfigFactoryImpl: invalid specifier SESSIONBASED factory used for SESSIONLESS param, skipping
+06-05 18:21:42.312  7058  7193 W msgr.lacrima: Soft error detector missing: MobileConfigFactoryImpl: invalid specifier SESSIONBASED factory used for SESSIONLESS param, skipping
+06-05 18:21:42.312  7058  7193 W msgr.lacrima: Soft error detector missing: MobileConfigFactoryImpl: invalid specifier SESSIONBASED factory used for SESSIONLESS param, skipping
+06-05 18:21:42.312  7058  7193 W msgr.lacrima: Soft error detector missing: MobileConfigFactoryImpl: invalid specifier SESSIONBASED factory used for SESSIONLESS param, skipping
+06-05 18:21:42.312  7058  7193 W msgr.lacrima: Soft error detector missing: MobileConfigFactoryImpl: invalid specifier SESSIONBASED factory used for SESSIONLESS param, skipping
+06-05 18:21:42.313  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10375, uidState = 15
+06-05 18:21:42.348  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10375, uidState = 10
+06-05 18:21:42.414  3906  3906 D SpaceNotificationService: onNotificationPosted pkgname:cz.appmine.poetizer userId:0 currentUserId:0 isFloat: false
+06-05 18:21:42.414  3906  3906 D SpaceNotificationService: We don't care notifications posted from current users.
+06-05 18:21:42.439  3019  3019 E ResourceLoader: getXmlRoot local inputStream is null
+06-05 18:21:42.439  3019  3019 E ScreenElementRoot: load error, manifest root is null
+06-05 18:21:42.443  3019  3019 D IconCustomizer: Content Ratio = -1.0
+06-05 18:21:42.445  3019  3019 D IconCustomizer: Generate customized icon for cz.appmine.poetizer.png
+06-05 18:21:42.447  7058  4951 D omnistore_android_logger: DebouncingRateLimiter attempting event SyncProtocol::onConnectionEstablished
+06-05 18:21:42.447  7058  4951 D omnistore_android_logger: Event not rate limited: SyncProtocol::onConnectionEstablished
+06-05 18:21:42.447  7058  4951 D omnistore_android_logger: SyncProtocol calling onConnectionEstablished callbacks
+06-05 18:21:42.447  7058  4951 D omnistore_android_logger: Removing all queue based subscriptions from rewire state
+06-05 18:21:42.456  3019  3019 D InterruptionStateProvider: No bubble up: not allowed to bubble: 0|cz.appmine.poetizer|87527509|null|10291
+06-05 18:21:42.457  3019  3317 D PeopleSpaceWidgetMgr: Sbn doesn't contain valid PeopleTileKey: null/0/cz.appmine.poetizer
+06-05 18:21:42.458  7058  4951 D omnistore_android_logger: SendQueue::onConnectionEstablished: sending 0 transaction(s)
+06-05 18:21:42.459  7058  7968 D omnistore_android_logger: SubscriptionManager::onConnectionEstablished is called back
+06-05 18:21:42.464  6316  6316 V onNotificationPostedCallBack: flags=16
+06-05 18:21:42.506  1850  2724 I QuietUtils: type:5, flags:0, cpkg:android
+06-05 18:21:42.514  7058  7968 I omnistore_android_logger: Connect message: queueName: messenger_montage_v2:100004557977805_amYMBdYgzrKM, gvid: 84575
+06-05 18:21:42.517  7058  7968 I omnistore_android_logger: Connect message: queueName: messenger_montage_non_user:100004557977805_amYMBdYgzrKM, gvid: 0
+06-05 18:21:42.518  7058  7968 I omnistore_android_logger: Connect message: queueName: messenger_rooms:100004557977805_amYMBdYgzrKM, gvid: 29
+06-05 18:21:42.521  1103  6927 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:42.522   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:42.522   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:42.522   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:42.522   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:42.522   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:42.522   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:42.522   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:42.522   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:42.522   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:42.522   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:42.522  7058  7968 I omnistore_android_logger: Client sent connect message
+06-05 18:21:42.525  1850  2724 I AudioService: setDefaultTimeZoneStatus: mInternationalLocation=true
+06-05 18:21:42.526  1850  2724 D AudioService: getIndexForType() type=content://settings/system/notification_sound
+06-05 18:21:42.527  1850  2724 D AudioService: getIndexForType() type=content://settings/system/notification_sound
+06-05 18:21:42.527  1850  2724 D AudioService: getIndexForType() type=content://settings/system/notification_sound
+06-05 18:21:42.527  1850  2724 D AudioService: getIndexForType() type=content://settings/system/notification_sound
+06-05 18:21:42.527  1850  2724 I AudioService: querySoundSourcesNumber:result=3 RowIndex=0 ColumnIndex=0 mTimeZone=Day
+06-05 18:21:42.527  1850  2724 I AudioService: createActualUriForNatureSound: FilePath=file:///system/media/audio/ui/WaterDropNotificationDay3.ogg
+06-05 18:21:42.528  3019  7556 D MediaPlayer: setDataSource() actualUri=file:///system/media/audio/ui/WaterDropNotificationDay3.ogg
+06-05 18:21:42.554  1757  6932 D NuPlayerDriver: NuPlayerDriver(0xef8df900) created, clientPid(3019)
+06-05 18:21:42.611  1757  6932 I ExtendedNuUtils: printFileName fd(7) -> /system/media/audio/ui/WaterDropNotificationDay3.ogg
+06-05 18:21:42.638  1757  7569 D GenericSource: FileSource remote
+06-05 18:21:42.670  1560 26863 I MMParserExtractor: Created(0xb400007adb4fe180)
+06-05 18:21:42.671  1560 26863 E MM_OSAL : FileSource::FileSource
+06-05 18:21:42.671  1560 26863 E MM_OSAL : FileSource::FileSource m_bEveryThingOK 1
+06-05 18:21:42.681  1560 17042 D MediaBufferGroup: creating MemoryDealer
+06-05 18:21:42.691  1850  2724 I MediaFocusControl: requestAudioFocus() from uid/pid 1000/3019 AA=USAGE_NOTIFICATION/CONTENT_TYPE_SONIFICATION clientId=android.media.AudioManager@37b11bd callingPack=com.android.systemui req=3 flags=0x0 sdk=31
+06-05 18:21:42.692  1850  2724 I AudioService.FadeOutManager: unfadeOutUid() uid:1000
+06-05 18:21:43.106  2999  3462 D MI_RIL_OEM_HOOK: onPkHookCommonMsg, msg_id = 65
+06-05 18:21:43.106  2999  3462 D MI_RIL_OEM_HOOK: onGetHookMsgBytes, HOOK_HEAD_SIZE = 16, msg_len = 4
+06-05 18:21:43.106  2999  3462 D MI_RIL_OEM_HOOK: onHookSendSync, phoneId = 0
+06-05 18:21:43.107  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 1
+06-05 18:21:43.108  2930  2930 I QcrilOemhookMsgTunnel: [0]invokeOemRilRequestRaw: serial=2037 length=36
+06-05 18:21:43.142  1850  2799 D ConnectivityService: requestNetwork for uid/pid:10195/3863 activeRequest: null callbackRequest: 383 [NetworkRequest [ REQUEST id=384, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10195 RequestorUid: 10195 RequestorPkg: com.google.android.youtube UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647
+06-05 18:21:43.143  1850  2648 D ConnectivityService: NetReassign [384 : null → 101]
+06-05 18:21:43.145  1850  2636 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=384, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10195 RequestorUid: 10195 RequestorPkg: com.google.android.youtube UnderlyingNetworks: Null] ]
+06-05 18:21:43.145  1850  2636 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=384, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10195 RequestorUid: 10195 RequestorPkg: com.google.android.youtube UnderlyingNetworks: Null] ]
+06-05 18:21:43.145  1850  2636 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=384, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10195 RequestorUid: 10195 RequestorPkg: com.google.android.youtube UnderlyingNetworks: Null] ]
+06-05 18:21:43.150  1793  2006 D XIAOMI_QCRIL: RIL[lib][xiaomi_extend_nvefs.c:52] xiaomi_qmi_result_map: xiaomi_qmi_result_map, old_result 0, new_result 0
+06-05 18:21:43.150  2930  3267 I QcrilOemhookMsgTunnel: [0]processOemHookResponse serial no: 2037 error: 0length=16
+06-05 18:21:43.151  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 2
+06-05 18:21:43.151  2999  3462 D QC_RIL_OEM_HOOK: sendOemRilRequestRaw returns value = 16
+06-05 18:21:43.151  2999  3462 D ModemSarController_8250: type = 65, len = 4, value = 0
+06-05 18:21:43.159  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5091206, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:43.159  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5091206, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:43.159  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5091206, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:43.160  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:43.161  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:43.195  1103  6927 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:43.195   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:43.195   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:43.195   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:43.195   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:43.195   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:43.196   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:43.196   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:43.196   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:43.196   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:43.196   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:43.196  1850  1850 D MediaRouter: onRestoreRoute() : route=RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+06-05 18:21:43.196  1850  1850 V MediaRouter: Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+06-05 18:21:43.198  1757  7558 I GenericSource: start
+06-05 18:21:43.199  1757  7558 W Utils   : track of type 'audio/vorbis' does not publish channel mask, channel count 2
+06-05 18:21:43.206  1757  7558 W Utils   : track of type 'audio/vorbis' does not publish channel mask, channel count 2
+06-05 18:21:43.212   975  1043 D audio_hw_primary: adev_get_parameters:is_hw_dec_session_available
+06-05 18:21:43.212   975  1043 D soundtrigger: audio_extn_sound_trigger_get_parameters input string<is_hw_dec_session_available=>
+06-05 18:21:43.212   975  1043 D soundtrigger: extract_sm_handle input string <is_hw_dec_session_available=> param string <is_hw_dec_session_available=>
+06-05 18:21:43.212   975  1043 D audio_hw_extn: audio_extn_fm_get_parameters: Enter
+06-05 18:21:43.212   975  1043 D audio_hw_extn: audio_extn_get_parameters: returns
+06-05 18:21:43.212   975  1043 V msm8974_platform: platform_get_parameters: exit: returns -
+06-05 18:21:43.212   975  1043 D audio_hw_primary: adev_get_parameters: exit: returns -
+06-05 18:21:43.222  1103  6927 I hash_map_utils: system/bt/osi/src/hash_map_utils.cc:81 hash_map_utils_dump_string_keys_string_values: key: 'is_hw_dec_session_available' value: 'audio/vorbis'
+06-05 18:21:43.247  1757  7578 I MediaCodec: video box enabled in settings
+06-05 18:21:43.247  1757  7578 I MediaCodec: init video box disabled for codec not supported
+06-05 18:21:43.247  1757  7579 D CCodec  : allocate(c2.android.vorbis.decoder)
+06-05 18:21:43.250  1757  7579 I CCodec  : setting up 'default' as default (vendor) store
+06-05 18:21:43.259  1645  2780 V C2Store : in init
+06-05 18:21:43.259  1645  2780 V C2Store : loading dll
+06-05 18:21:43.275  1757  7579 I CCodec  : Created component [c2.android.vorbis.decoder]
+06-05 18:21:43.276  1757  7579 D CCodecConfig: read media type: audio/vorbis
+06-05 18:21:43.279  1757  7579 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+06-05 18:21:43.279  1757  7579 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+06-05 18:21:43.280  1757  7579 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+06-05 18:21:43.280  1757  7579 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+06-05 18:21:43.280  1757  7579 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+06-05 18:21:43.280  1757  7579 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+06-05 18:21:43.280  1757  7579 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+06-05 18:21:43.284  1757  7579 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+06-05 18:21:43.286  1757  7579 D CCodecConfig: c2 config diff is Dict {
+06-05 18:21:43.286  1757  7579 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+06-05 18:21:43.286  1757  7579 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+06-05 18:21:43.286  1757  7579 D CCodecConfig:   c2::u32 input.delay.value = 0
+06-05 18:21:43.286  1757  7579 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+06-05 18:21:43.286  1757  7579 D CCodecConfig:   string output.media-type.value = "audio/raw"
+06-05 18:21:43.286  1757  7579 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+06-05 18:21:43.286  1757  7579 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+06-05 18:21:43.286  1757  7579 D CCodecConfig: }
+06-05 18:21:43.289  1757  7579 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+06-05 18:21:43.289  1757  7579 D CCodecConfig: no c2 equivalents for durationUs
+06-05 18:21:43.289  1757  7579 D CCodecConfig: no c2 equivalents for csd-1
+06-05 18:21:43.289  1757  7579 D CCodecConfig: no c2 equivalents for language
+06-05 18:21:43.289  1757  7579 D CCodecConfig: no c2 equivalents for file-format
+06-05 18:21:43.289  1757  7579 D CCodecConfig: no c2 equivalents for audiosession-id
+06-05 18:21:43.289  1757  7579 D CCodecConfig: no c2 equivalents for flags
+06-05 18:21:43.290  1757  7579 D CCodecConfig: config failed => CORRUPTED
+06-05 18:21:43.290  1757  7579 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 499821
+06-05 18:21:43.290  1757  7579 D CCodecConfig:   c2::u32 raw.channel-count.value = 2
+06-05 18:21:43.290  1757  7579 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+06-05 18:21:43.291  1757  7579 W Codec2Client: query -- param skipped: index = 1107298332.
+06-05 18:21:43.291  1757  7579 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+06-05 18:21:43.291  1757  7579 D CCodec  :   int32_t bitrate = 499821
+06-05 18:21:43.291  1757  7579 D CCodec  :   int32_t channel-count = 2
+06-05 18:21:43.291  1757  7579 D CCodec  :   int32_t max-input-size = 65307
+06-05 18:21:43.291  1757  7579 D CCodec  :   string mime = "audio/vorbis"
+06-05 18:21:43.291  1757  7579 D CCodec  :   int32_t sample-rate = 44100
+06-05 18:21:43.291  1757  7579 D CCodec  : }
+06-05 18:21:43.291  1757  7579 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+06-05 18:21:43.291  1757  7579 D CCodec  :   int32_t channel-count = 2
+06-05 18:21:43.291  1757  7579 D CCodec  :   string mime = "audio/raw"
+06-05 18:21:43.291  1757  7579 D CCodec  :   int32_t sample-rate = 44100
+06-05 18:21:43.291  1757  7579 D CCodec  :   int32_t android._config-pcm-encoding = 2
+06-05 18:21:43.291  1757  7579 D CCodec  : }
+06-05 18:21:43.291  1757  7579 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+06-05 18:21:43.292  1757  7579 I MediaCodec: MediaCodec will operate in async mode
+06-05 18:21:43.292  1757  7578 D MediaCodec: keep callback message for reclaim
+06-05 18:21:43.293  1757  7579 W Codec2Client: query -- param skipped: index = 1342179345.
+06-05 18:21:43.293  1757  7579 W Codec2Client: query -- param skipped: index = 2415921170.
+06-05 18:21:43.300  1757  7579 D CCodecBufferChannel: [c2.android.vorbis.decoder#721] Created input block pool with allocatorID 16 => poolID 294 - OK (0)
+06-05 18:21:43.300  1645  2780 D BufferPoolAccessor2.0: bufferpool2 0xb4000075caa8be28 : 0(0 size) total buffers - 0(0 size) used buffers - 76/80 (recycle/alloc) - 4/79 (fetch/transfer)
+06-05 18:21:43.300  1645  2780 D BufferPoolAccessor2.0: Destruction - bufferpool2 0xb4000075caa8be28 cached: 0/0M, 0/0% in use; allocs: 80, 95% recycled; transfers: 79, 95% unfetched
+06-05 18:21:43.302  1757 10444 D BufferPoolAccessor2.0: bufferpool2 0xef8198d8 : 0(0 size) total buffers - 0(0 size) used buffers - 77/85 (recycle/alloc) - 8/164 (fetch/transfer)
+06-05 18:21:43.302  1757 10444 D BufferPoolAccessor2.0: Destruction - bufferpool2 0xef8198d8 cached: 0/0M, 0/0% in use; allocs: 85, 91% recycled; transfers: 164, 95% unfetched
+06-05 18:21:43.303  1757  7579 I CCodecBufferChannel: [c2.android.vorbis.decoder#721] Created output block pool with allocatorID 16 => poolID 314 - OK
+06-05 18:21:43.304  1757  7579 D CCodecBufferChannel: [c2.android.vorbis.decoder#721] Configured output block pool ids 314 => OK
+06-05 18:21:43.305  1757  7579 D CCodecBufferChannel: [c2.android.vorbis.decoder#721] start: updating output delay 0
+06-05 18:21:43.310  1645  7593 D SimpleC2Component: Using output block pool with poolID 314 => got 314 - 0
+06-05 18:21:43.324  1757  7578 I ExtendedNuUtils: Both src and dst missing for bit-width
+06-05 18:21:43.324  1757  7578 I ExtendedNuUtils: Overriding durationUs: with 64 bit src value 1200000
+06-05 18:21:43.324  1757  7578 I ExtendedNuUtils: Both src and dst missing for channel-mask
+06-05 18:21:43.326  1103  6927 D APM_AudioPolicyManager: selectOutput flags 0
+06-05 18:21:43.327  1103  1103 D APM_AudioPolicyManager: selectOutput flags 0
+06-05 18:21:43.327  1757  7577 D AudioTrack: set(sessionId=4865)
+06-05 18:21:43.327  1757  7577 D AudioTrack: set(): streamType 5, sampleRate 44100, format 0x1, channelMask 0x3, frameCount 22050, flags #2, notificationFrames 0, sessionId 4865, transferType 0, uid 1000, pid 3019
+06-05 18:21:43.330   975 19730 D audio_hw_primary: adev_get_parameters:audio_game_sound_volume_gap_switch
+06-05 18:21:43.330   975 19730 D soundtrigger: audio_extn_sound_trigger_get_parameters input string<audio_game_sound_volume_gap_switch=>
+06-05 18:21:43.330   975 19730 D soundtrigger: extract_sm_handle input string <audio_game_sound_volume_gap_switch=> param string <audio_game_sound_volume_gap_switch=>
+06-05 18:21:43.330   975 19730 D audio_hw_extn: audio_extn_fm_get_parameters: Enter
+06-05 18:21:43.330   975 19730 D audio_hw_extn: audio_extn_get_parameters: returns
+06-05 18:21:43.330   975 19730 V msm8974_platform: platform_get_parameters: exit: returns - audio_game_sound_volume_gap_switch=on
+06-05 18:21:43.330   975 19730 D audio_hw_primary: adev_get_parameters: exit: returns - audio_game_sound_volume_gap_switch=on
+06-05 18:21:43.333  1103  6927 I hash_map_utils: system/bt/osi/src/hash_map_utils.cc:81 hash_map_utils_dump_string_keys_string_values: key: 'audio_game_sound_volume_gap_switch' value: ''
+06-05 18:21:43.334  1757  7577 E mediaserver: open /proc/3019/cmdline error
+06-05 18:21:43.343  1103  6927 D MediaImpl: setPlaybackCaptureAllowed: playbackCaptureAllowed 1
+06-05 18:21:43.345  1103  6927 D APM_AudioPolicyManager: getOutputForAttrInt()+ attributes={ Content type: AUDIO_CONTENT_TYPE_SONIFICATION Usage: AUDIO_USAGE_NOTIFICATION Source: AUDIO_SOURCE_INVALID Flags: 0x800 Tags:  } stream=AUDIO_STREAM_NOTIFICATION session 4865 output 0 selectedDeviceId 0 device AUDIO_DEVICE_NONE sampling rate 44100 format 0x1channel mask 0x3 flags 0x2 stream AUDIO_STREAM_NOTIFICATION uid 1000
+06-05 18:21:43.345  1103  6927 D APM_AudioPolicyManager: getOutputForAttrInt() device {type:0x2,@:}, sampling rate 44100, format 0x1, channel mask 0x3, flags 0x2 stream AUDIO_STREAM_NOTIFICATION
+06-05 18:21:43.345   975 19730 D audio_hw_primary: adev_get_parameters:vr_audio_mode_on
+06-05 18:21:43.345   975 19730 I audio_hw_primary: getting vr mode to 0
+06-05 18:21:43.345   975 19730 D audio_hw_primary: adev_get_parameters: exit: returns - vr_audio_mode_on=false
+06-05 18:21:43.346  1103  6927 I hash_map_utils: system/bt/osi/src/hash_map_utils.cc:81 hash_map_utils_dump_string_keys_string_values: key: 'vr_audio_mode_on' value: ''
+06-05 18:21:43.346  1103  6927 I AudioPolicyManagerCustom: VR mode is 0, switch to primary output if request is for fast|raw
+06-05 18:21:43.346   975 19730 D audio_hw_primary: adev_get_parameters:audio_karaoke_running
+06-05 18:21:43.346   975 19730 D audio_hw_primary: get para : audio_karaoke_running = false
+06-05 18:21:43.346   975 19730 D soundtrigger: audio_extn_sound_trigger_get_parameters input string<audio_karaoke_running=>
+06-05 18:21:43.346   975 19730 D soundtrigger: extract_sm_handle input string <audio_karaoke_running=> param string <audio_karaoke_running=>
+06-05 18:21:43.346   975 19730 D audio_hw_extn: audio_extn_fm_get_parameters: Enter
+06-05 18:21:43.346   975 19730 D audio_hw_extn: audio_extn_get_parameters: returns audio_karaoke_running=false
+06-05 18:21:43.346   975 19730 V msm8974_platform: platform_get_parameters: exit: returns - audio_karaoke_running=false
+06-05 18:21:43.346   975 19730 D audio_hw_primary: adev_get_parameters: exit: returns - audio_karaoke_running=false
+06-05 18:21:43.346  1103  6927 I hash_map_utils: system/bt/osi/src/hash_map_utils.cc:81 hash_map_utils_dump_string_keys_string_values: key: 'audio_karaoke_running' value: ''
+06-05 18:21:43.348  1103  6927 D APM_AudioPolicyManager: selectOutput flags 2
+06-05 18:21:43.348  1103  6927 D APM_AudioPolicyManager: getOutputForAttrInt()- attributes={ Content type: AUDIO_CONTENT_TYPE_SONIFICATION Usage: AUDIO_USAGE_NOTIFICATION Source: AUDIO_SOURCE_INVALID Flags: 0x800 Tags:  } stream=AUDIO_STREAM_NOTIFICATION session 4865 output 13 selectedDeviceId 0 device {type:0x2,@:} sampling rate 44100 format 0x1channel mask 0x3 flags 0x2 stream AUDIO_STREAM_NOTIFICATION uid 1000
+06-05 18:21:43.348  1103  6927 D APM_AudioPolicyManager: getOutputForAttr() returns output 13 requestedPortId 0 selectedDeviceId 3 for port ID 397
+06-05 18:21:43.350  1103  6927 D AudioFlinger: Client defaulted notificationFrames to 11025 for frameCount 22050
+06-05 18:21:43.354  1103  6927 D AF::TrackHandle: OpPlayAudio: track:407 usage:5 not muted
+06-05 18:21:43.358  1103  6927 I AudioFlinger: create audiotrack for com.android.settings  uid 1000
+06-05 18:21:43.359  1103  6927 I AudioFlinger: create audiotrack for com.android.settings  uid 1000
+06-05 18:21:43.359  1103  6927 D AF::Track: Track(407): usage = 5 mbIsAttrNeedFade = 0
+06-05 18:21:43.365  1757  7577 D AudioTrack: isWhiteListPackage() Uid 1000, package name com.android.settings
+06-05 18:21:43.369  1757  7577 I AudioTrack: AudioTrack::setVolume L:1.000000 R:1.000000 and the pakage is com.android.settings
+06-05 18:21:43.371  1757  7577 I AudioTrack: AudioTrack::setVolume L:1.000000 R:1.000000 and the pakage is com.android.settings
+06-05 18:21:43.371  1103  6927 D AF::Track: setFadeType1 type = 1 mFadeType = 0 isFadeNeeded = 0
+06-05 18:21:43.372  1103  2363 D AudioFlinger: updateWakeLockUids_l AudioOut_4D uids:
+06-05 18:21:43.372  1103  2327 D AudioFlinger: updateWakeLockUids_l AudioOut_1D uids:
+06-05 18:21:43.372  1103  2317 D AudioFlinger: updateWakeLockUids_l AudioOut_15 uids:
+06-05 18:21:43.373  1103  2347 D AudioFlinger: updateWakeLockUids_l AudioOut_3D uids:
+06-05 18:21:43.377   975  1043 I EffectsFactory: EffectCreate() create_effect
+06-05 18:21:43.378   975  2575 D msm8974_platform: platform_split_snd_device: snd_device(21) num devices(1) new_snd_devices(0)
+06-05 18:21:43.379  1103  1596 V APM::EffectDescriptor: registerEffect() effect Volume listener for notification, io 13, session 4865 id 675
+06-05 18:21:43.379  1103  1596 V APM::EffectDescriptor: registerEffect() memory 1, total memory 3
+06-05 18:21:43.379  1103  1596 V APM::EffectDescriptor: setEffectEnabled(true) total CPU 0
+06-05 18:21:43.379  1103  1596 V AudioPolicyManagerImpl: notification filter: setNotificationFilter notificationFilterFeature=1
+06-05 18:21:43.379  1103  1596 D AudioPolicyManagerImpl: notification filter: setNotificationFilter muteMaskInt=0
+06-05 18:21:43.379  1103  1596 D APM_AudioPolicyManager: startOutput() output 13, stream 5, session 4865 appname systemApp uid 1000
+06-05 18:21:43.379  1103  1596 D APM_AudioPolicyManager: getNewOutputDevices selected devices {type:0x2,@:}
+06-05 18:21:43.380  1103  1596 D APM_AudioPolicyManager: setOutputDevices device {type:0x2,@:} delayMs 0 force 0
+06-05 18:21:43.380  1103  1596 D APM_AudioPolicyManager: setOutputDevices() prevDevice {type:0x2,@:}
+06-05 18:21:43.382  1103  1596 D AudioPolicyManagerCustom: checkAndSetVolume() set volumeSource 7 volume index 1 for device 0x2
+06-05 18:21:43.382  1103  1596 D AudioPolicyManagerCustom: checkAndSetVolume() set volumeSource 7 volume index 1 for device 0x2, volumeDb=-28.200001
+06-05 18:21:43.387  1103  6927 E audioserver: open /proc/1757/cmdline error
+06-05 18:21:43.387  1103  6927 I audioserver: setAppName(), name=[], active=[1]
+06-05 18:21:43.387   975  1043 V EffectMiSound: MiSound_command() start, cmdCode=24
+06-05 18:21:43.387   975  1043 V EffectMiSound: MiSound_Command EFFECT_CMD_SET_APP_NAME: stream=5, name=+
+06-05 18:21:43.393  1103  2311 D AudioFlinger: updateWakeLockUids_l AudioOut_D uids:1000 10354
+06-05 18:21:43.396  1757  7577 D AudioTrack: getTimestamp_l(397): device stall time corrected using current time 5091443861544
+06-05 18:21:43.403  1103  6927 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:43.403   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:43.403   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:43.403   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:43.403   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:43.403   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:43.403   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:43.403   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:43.403   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:43.403   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:43.403   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:44.204  1757  7579 D CCodecBufferChannel: [c2.android.vorbis.decoder#721] buffers after EOS ignored (0 us)
+06-05 18:21:44.204  1757  7579 D CCodecBufferChannel: [c2.android.vorbis.decoder#721] buffers after EOS ignored (0 us)
+06-05 18:21:44.205  1757  7577 D AudioTrack: stop(sessionID=4865)
+06-05 18:21:44.205  1757  7577 D AudioTrack: stop(397): prior state:STATE_ACTIVE
+06-05 18:21:44.205  1757  7577 D AudioTrack: stop(397): called with 52921 frames delivered
+06-05 18:21:44.206  1103  6927 D AF::Track: setFadeType1 type = 2 mFadeType = 0 isFadeNeeded = 0
+06-05 18:21:44.206  1103  6927 E audioserver: open /proc/1757/cmdline error
+06-05 18:21:44.206  1103  6927 I audioserver: setAppName(), name=[], active=[0]
+06-05 18:21:44.206   975  1043 V EffectMiSound: MiSound_command() start, cmdCode=24
+06-05 18:21:44.206   975  1043 V EffectMiSound: MiSound_Command EFFECT_CMD_SET_APP_NAME: stream=5, name=-
+06-05 18:21:44.684  1757  7577 D AudioTrack:  pause(sessionID=4865)
+06-05 18:21:44.684  1757  7577 D AudioTrack: pause(397): prior state:STATE_STOPPED
+06-05 18:21:44.686  1850  5955 I MediaFocusControl: abandonAudioFocus() from uid/pid 1000/3019 clientId=android.media.AudioManager@37b11bd
+06-05 18:21:44.689  3019  7556 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+06-05 18:21:44.689  3019  7556 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+06-05 18:21:44.689  1757  6839 D NuPlayerDriver: reset(0xef8df900) at state 6
+06-05 18:21:44.689  1103  6927 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:44.689  2953  2953 D MediaRouter: onRestoreRoute() : route=RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+06-05 18:21:44.689  2953  2953 V MediaRouter: Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+06-05 18:21:44.690   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:44.690   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:44.690   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:44.690   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:44.690   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:44.690   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:44.690   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:44.690   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:44.690   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:44.690   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:44.691  1757  7577 D AudioTrack:  pause(sessionID=4865)
+06-05 18:21:44.691  1757  7577 D AudioTrack: pause(397): prior state:STATE_STOPPED
+06-05 18:21:44.692  1757  7577 D AudioTrack: stop(sessionID=4865)
+06-05 18:21:44.692  1757  7577 D AudioTrack: stop(397): prior state:STATE_FLUSHED
+06-05 18:21:44.695  1103  6927 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:44.695   975  1043 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:44.695   975  1043 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:44.695   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:44.695   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:44.695   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:44.695   975  1043 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:44.695   975  1043 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:44.695   975  1043 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:44.695   975  1043 V a2dp_offload: end of a2dp setparam
+06-05 18:21:44.695   975  1043 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:44.697  1757  7579 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+06-05 18:21:44.697  1645  2780 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+06-05 18:21:44.701  1757  7577 D AudioTrack: ~AudioTrack(sessionID=4865)
+06-05 18:21:44.702  1757  7577 D AudioTrack: stop(sessionID=4865)
+06-05 18:21:44.702  1757  7577 D AudioTrack: stop(397): prior state:STATE_FLUSHED
+06-05 18:21:44.702  1645  2780 V C2Store : in ~ComponentModule
+06-05 18:21:44.702  1645  2780 V C2Store : unloading dll
+06-05 18:21:44.705  1757  7558 D NuPlayerDriver: notifyResetComplete(0xef8df900)
+06-05 18:21:44.705  1757  6839 W AMessage: failed to post message as target looper for handler 0 is gone.
+06-05 18:21:44.713  1103  1596 V APM::EffectDescriptor: setEffectEnabled(false) total CPU 0
+06-05 18:21:44.714  1103  2311 D AudioFlinger: updateWakeLockUids_l AudioOut_D uids:10354
+06-05 18:21:44.715  1103  1596 V APM::EffectDescriptor: unregisterEffect() effect Volume listener for notification, ID 675, memory 1 total memory 2
+06-05 18:21:44.715  1103  1596 D APM_AudioPolicyManager: stopOutput portId 397
+06-05 18:21:44.715  1103  1596 D APM_AudioPolicyManager: stopOutput() output 13, stream 5, session 4865
+06-05 18:21:44.716  1103  1596 D APM_AudioPolicyManager: getNewOutputDevices selected devices {type:0x2,@:}
+06-05 18:21:44.716  1103  1596 D APM_AudioPolicyManager: setOutputDevices device {type:0x2,@:} delayMs 96 force 0
+06-05 18:21:44.716  1103  1596 D APM_AudioPolicyManager: setOutputDevices() prevDevice {type:0x2,@:}
+06-05 18:21:44.718  1103  1596 D APM_AudioPolicyManager: releaseOutput portId 397
+06-05 18:21:44.718  1103  1596 D APM_AudioPolicyManager: releaseOutput() output 13, stream 5, session 4865 [uid=1000]
+06-05 18:21:45.136  5883  5883 I GnpSdk  : [ChimeBroadcastReceiver] Intent received for action [com.google.android.c2dm.intent.RECEIVE] package [com.google.android.googlequicksearchbox].
+06-05 18:21:45.137  5883  5883 I GnpSdk  : [ChimeBroadcastReceiver] Phenotype initialized.
+06-05 18:21:45.153  5883  5883 I GnpSdk  : [ChimeBroadcastReceiver] Validation OK for action [com.google.android.c2dm.intent.RECEIVE].
+06-05 18:21:45.154  5883  5883 I GnpSdk  : [ChimeExecutorApiImpl-Tiktok] Submitting Broadcast execution [135527080] to tiktok executor.
+06-05 18:21:45.155  5883  7610 I GnpSdk  : [ChimeBroadcastReceiver] Executing action in BroadcastReceiver [com.google.android.c2dm.intent.RECEIVE].
+06-05 18:21:45.333  5883  7610 I GnpSdk  : [ChimeExecutorApiImpl-Tiktok] Finished Broadcast execution [135527080].
+06-05 18:21:45.345  5883  5883 I NotificationFullFlow: Step 1: GcmBroadcastReceiver:onReceive
+06-05 18:21:45.349  5883  6250 I NotificationFullFlow: Step 2: GcsmState:handleClientEvent
+06-05 18:21:45.362  5883  6250 E A       : Processing of GCM event failed.
+06-05 18:21:45.362  5883  6250 E A       : java.lang.NullPointerException: No binary data in push message
+06-05 18:21:45.362  5883  6250 E A       : 	at com.google.common.base.bb.a(PG:1)
+06-05 18:21:45.362  5883  6250 E A       : 	at com.google.android.apps.gsa.staticplugins.az.k.a(PG:6)
+06-05 18:21:45.362  5883  6250 E A       : 	at dagger.b.a.h.apply(PG:2)
+06-05 18:21:45.362  5883  6250 E A       : 	at com.google.common.util.concurrent.h.e(PG:2)
+06-05 18:21:45.362  5883  6250 E A       : 	at com.google.common.util.concurrent.j.run(PG:9)
+06-05 18:21:45.362  5883  6250 E A       : 	at com.google.cd.h.a.q.run(PG:3)
+06-05 18:21:45.362  5883  6250 E A       : 	at com.google.android.libraries.i.af.run(PG:1)
+06-05 18:21:45.362  5883  6250 E A       : 	at com.google.android.libraries.i.an.run(PG:23)
+06-05 18:21:45.362  5883  6250 E A       : 	at com.google.android.libraries.i.l.run(PG:2)
+06-05 18:21:45.362  5883  6250 E A       : 	at com.google.android.libraries.i.q.run(PG:4)
+06-05 18:21:45.362  5883  6250 E A       : 	at java.lang.Thread.run(Thread.java:920)
+06-05 18:21:45.366  3143  3143 W GCM     : broadcast intent callback: result=CANCELLED forIntent { act=com.google.android.c2dm.intent.RECEIVE pkg=com.google.android.googlequicksearchbox (has extras) }
+06-05 18:21:45.398  5883  6253 V ClearcutMetricXmitter: Transmission is done.
+06-05 18:21:45.416  5883  6253 V ClearcutMetricXmitter: Transmission is done.
+06-05 18:21:45.958  1103  1103 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:45.958   975  2575 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:45.958   975  2575 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:45.958   975  2575 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:45.958   975  2575 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:45.958   975  2575 V a2dp_offload: end of a2dp setparam
+06-05 18:21:45.958   975  2575 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:45.958   975  2575 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:45.958   975  2575 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:45.958   975  2575 V a2dp_offload: end of a2dp setparam
+06-05 18:21:45.958   975  2575 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:45.959  1103  1103 I audioserver: setGameParameters keyvalue: xlog.volume.music.speaker=54
+06-05 18:21:45.959   975  2575 D audio_hw_primary: adev_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:45.959   975  2575 V msm8974_platform: platform_set_parameters: enter: xlog.volume.music.speaker=54
+06-05 18:21:45.959   975  2575 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:45.959   975  2575 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:45.959   975  2575 V a2dp_offload: end of a2dp setparam
+06-05 18:21:45.959   975  2575 D audio_hw_cspl_cal: cirrus_cal_setparameters: enter 0xf3003600
+06-05 18:21:45.959   975  2575 D audio_hw_extn: audio_extn_fm_set_parameters: Enter
+06-05 18:21:45.959   975  2575 D audio_hw_hfp: hfp_set_parameters: enter
+06-05 18:21:45.959   975  2575 V a2dp_offload: end of a2dp setparam
+06-05 18:21:45.959   975  2575 D audio_hw_primary: adev_set_parameters: exit with code(0)
+06-05 18:21:46.157  5883  6125 I A       : Cobalt: try to find ProjectConfig for given tags
+06-05 18:21:46.157  5883  6125 W A       : Cobalt: couldn't find ProjectConfig for given tags
+06-05 18:21:46.181  5883  6144 I A       : #sync
+06-05 18:21:46.181  5883  6144 I A       : #fetchAndCacheCopy
+06-05 18:21:46.201  1850  2799 D ConnectivityService: requestNetwork for uid/pid:10192/5883 activeRequest: null callbackRequest: 385 [NetworkRequest [ REQUEST id=386, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10192 RequestorUid: 10192 RequestorPkg: com.google.android.googlequicksearchbox UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647
+06-05 18:21:46.202  1850  2648 D ConnectivityService: NetReassign [386 : null → 101]
+06-05 18:21:46.208  1850  2636 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=386, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10192 RequestorUid: 10192 RequestorPkg: com.google.android.googlequicksearchbox UnderlyingNetworks: Null] ]
+06-05 18:21:46.208  1850  2636 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=386, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10192 RequestorUid: 10192 RequestorPkg: com.google.android.googlequicksearchbox UnderlyingNetworks: Null] ]
+06-05 18:21:46.209  1850  2636 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=386, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10192 RequestorUid: 10192 RequestorPkg: com.google.android.googlequicksearchbox UnderlyingNetworks: Null] ]
+06-05 18:21:46.237  3143 11074 W Auth    : [GoogleAccountDataServiceImpl] Failed to delete an intermediate token as owning package is missing. [CONTEXT service_id=153 ]
+06-05 18:21:46.241  5883  6144 I A       : #sync
+06-05 18:21:46.241  5883  6144 I A       : #fetchAndCacheCopy
+06-05 18:21:46.244  5883  6144 I A       : #sync
+06-05 18:21:46.244  5883  6144 I A       : #fetchAndCacheCopy
+06-05 18:21:46.245  5883  6282 E A       : #getPromoCopy failed
+06-05 18:21:46.245  5883  6282 E A       : io.grpc.ey: UNKNOWN: Could not obtain auth token
+06-05 18:21:46.245  5883  6282 E A       : 	at io.grpc.i.n.b(PG:6)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.f.ab.b(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.af.h(PG:9)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.af.f(PG:3)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.af.b(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.ao.run(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.ar.e(PG:4)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.ar.b(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.y.run(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.q.run(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.common.util.concurrent.dp.run(PG:4)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.common.util.concurrent.bf.execute(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.ab.execute(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.common.util.concurrent.dq.execute(PG:5)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.m.execute(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.ad.a(PG:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.frameworks.client.data.android.g.aj.a(PG:10)
+06-05 18:21:46.245  5883  6282 E A       : 	at io.grpc.ay.a(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.f.z.run(PG:4)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.tracing.ej.run(PG:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.f.aa.a(PG:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at io.grpc.i.o.g(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at io.grpc.i.o.f(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at io.grpc.i.o.a(PG:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.android.apps.search.googleapp.promomanager.d.e.a(PG:13)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.android.apps.search.googleapp.promomanager.e.a.b(PG:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.h.b.v.c(PG:25)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.h.b.s.call(Unknown Source:6)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.tracing.el.call(PG:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.h.b.t.a(Unknown Source:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.concurrent.aa.a(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.common.util.concurrent.dy.a(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.common.util.concurrent.cv.run(PG:4)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.common.util.concurrent.ea.run(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.android.libraries.i.af.run(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.android.libraries.i.an.run(PG:23)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.android.libraries.i.l.run(PG:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.android.libraries.i.q.run(PG:4)
+06-05 18:21:46.245  5883  6282 E A       : 	at java.lang.Thread.run(Thread.java:920)
+06-05 18:21:46.245  5883  6282 E A       : Caused by: java.lang.IllegalStateException: Cannot get auth token for account id: AccountId{id=1}
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.f.i.apply(PG:1)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.apps.tiktok.tracing.ep.apply(PG:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.common.util.concurrent.h.e(PG:2)
+06-05 18:21:46.245  5883  6282 E A       : 	at com.google.common.util.concurrent.j.run(PG:9)
+06-05 18:21:46.245  5883  6282 E A       : 	... 5 more
+06-05 18:21:46.246  5883  6144 I A       : #sync
+06-05 18:21:46.249  3143 11228 W Auth    : [GoogleAccountDataServiceImpl] Failed to delete an intermediate token as owning package is missing. [CONTEXT service_id=153 ]
+06-05 18:21:46.249  5883  6144 I A       : #fetchAndCacheCopy
+06-05 18:21:46.255  3143 11074 W Auth    : [GoogleAccountDataServiceImpl] Failed to delete an intermediate token as owning package is missing. [CONTEXT service_id=153 ]
+06-05 18:21:46.905  7276  7276 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10269; state: DISABLED
+06-05 18:21:47.006  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:47.007  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:47.009  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4254600
+06-05 18:21:47.009  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:47.009  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4254600 powerSaveMode=false
+06-05 18:21:47.010  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:47.010  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:47.010  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 42
+06-05 18:21:47.018  7058  7542 I omnistore_android_logger: Deltas Received on queue messenger_montage_v2:100004557977805_amYMBdYgzrKM with 1 batch size starting at global id 84576
+06-05 18:21:47.020  7058  7542 D omnistore_android_logger: TransactionResult Received on queue messenger_montage_v2:100004557977805_amYMBdYgzrKM with 1 transactions starting at global id 84576 upto clientVersionId 0
+06-05 18:21:47.023  7058  7968 D omnistore_android_logger: TransactionReceiver::processSerializedJobSuccess for queue messenger_montage_v2:100004557977805_amYMBdYgzrKM, status 0, global id 84576client version id 0
+06-05 18:21:47.024  7058  7968 D omnistore_android_logger: TransactionReceiver::applySuccessfulTransactionResult
+06-05 18:21:47.028  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5095075, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:47.034  7058  7968 D omnistore_android_logger: TransactionReceiver::processTransaction flush callbacks
+06-05 18:21:47.130  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10291, uidState = 11
+06-05 18:21:47.139  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10291, uidState = 19
+06-05 18:21:47.439  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10081, uidState = 19
+06-05 18:21:47.538  2999  3730 W TelephonyPermissions: reportAccessDeniedToReadIdentifiers:com.lazada.android:getSubscriberIdForSubscriber:1
+06-05 18:21:48.151  2999  3462 D MI_RIL_OEM_HOOK: onPkHookCommonMsg, msg_id = 65
+06-05 18:21:48.152  2999  3462 D MI_RIL_OEM_HOOK: onGetHookMsgBytes, HOOK_HEAD_SIZE = 16, msg_len = 4
+06-05 18:21:48.152  2999  3462 D MI_RIL_OEM_HOOK: onHookSendSync, phoneId = 0
+06-05 18:21:48.153  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 1
+06-05 18:21:48.153  2930  2930 I QcrilOemhookMsgTunnel: [0]invokeOemRilRequestRaw: serial=2038 length=36
+06-05 18:21:48.206  1793  2006 D XIAOMI_QCRIL: RIL[lib][xiaomi_extend_nvefs.c:52] xiaomi_qmi_result_map: xiaomi_qmi_result_map, old_result 0, new_result 0
+06-05 18:21:48.207  2930  3267 I QcrilOemhookMsgTunnel: [0]processOemHookResponse serial no: 2038 error: 0length=16
+06-05 18:21:48.208  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 2
+06-05 18:21:48.209  2999  3462 D QC_RIL_OEM_HOOK: sendOemRilRequestRaw returns value = 16
+06-05 18:21:48.209  2999  3462 D ModemSarController_8250: type = 65, len = 4, value = 0
+06-05 18:21:48.301  1645  2234 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 0
+06-05 18:21:49.294  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:49.294  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:49.297  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:49.298  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4254400
+06-05 18:21:49.298  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:49.298  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4254400 powerSaveMode=false
+06-05 18:21:49.301  1757  2562 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 0
+06-05 18:21:49.303  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 42
+06-05 18:21:49.303  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:50.188  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5098235, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:50.188  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5098235, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:50.188  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5098235, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:50.189  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:50.189  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:50.301  1757  2562 D BufferPoolAccessor2.0: bufferpool2 0xef81ba98 : 0(0 size) total buffers - 0(0 size) used buffers - 74/82 (recycle/alloc) - 8/156 (fetch/transfer)
+06-05 18:21:50.301  1757  2562 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+06-05 18:21:50.302  1645  2234 D BufferPoolAccessor2.0: bufferpool2 0xb4000075ba523628 : 0(0 size) total buffers - 0(0 size) used buffers - 72/76 (recycle/alloc) - 4/75 (fetch/transfer)
+06-05 18:21:50.302  1645  2234 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+06-05 18:21:50.566  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5098613, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:51.957  7276  7356 D hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+06-05 18:21:51.977  7276  7356 I DrmHal  : found instance=clearkey version=android.hardware.drm@1.3::IDrmFactory
+06-05 18:21:51.977  7276  7356 I DrmHal  : found instance=widevine version=android.hardware.drm@1.3::IDrmFactory
+06-05 18:21:51.990   991 13981 I WVCdm   : [app][com.lazada.android] calling virtual Return<void> wvdrm::hardware::drm::V1_3::widevine::WVDrmFactory::createPlugin(const hidl_array<uint8_t, 16> &, const android::hardware::hidl_string &, android::hardware::drm::V1_3::IDrmFactory::createPlugin_cb)
+06-05 18:21:51.991   991 13981 D WVCdm   : Instantiating CDM.
+06-05 18:21:52.001   991 13981 I WVCdm   : [cdm_engine.cpp(563):QueryStatus] Querying status
+06-05 18:21:52.006   991 13981 I WVCdm   : [oemcrypto_adapter_dynamic.cpp(781):Initialize] Level 3 Build Info (v16): OEMCrypto Level3 Code 22590 May 28 2021 19:37:25
+06-05 18:21:52.006   991  7646 I WVCdm   : [(0):] Level3 Library 22590 May 28 2021 19:37:25
+06-05 18:21:52.021   991 13981 I WVCdm   : [oemcrypto_adapter_dynamic.cpp(795):Initialize] L3 Initialized. Trying L1.
+06-05 18:21:52.039   991 13981 I QCOM-OEMCrypto: OEMCrypto_Initialize
+06-05 18:21:52.044   991 13981 D QSEECOMAPI: QSEECom_get_handle sb_length = 0x64000
+06-05 18:21:52.044   991 13981 D QSEECOMAPI: App is not loaded in QSEE
+06-05 18:21:52.046   991 13981 E QSEECOMAPI: Error::Cannot open the file /vendor/firmware_mnt/image/widevine.mdt errno = 2
+06-05 18:21:52.046   991 13981 E QSEECOMAPI: Error::Loading image failed with ret = -1
+06-05 18:21:52.053   991 13981 D QSEECOMAPI: QSEECom_get_handle sb_length = 0x64000
+06-05 18:21:52.054   991 13981 D QSEECOMAPI: App is not loaded in QSEE
+06-05 18:21:52.080   991 13981 D QSEECOMAPI: Loaded image: APP id = 116
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: ---------------Widevine OEMCrypto configuration-----------------
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: TA-HLOS interface                    :   QSEECOM
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: Crypto Engine SMMU Virtual Address   :   Yes
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: Measure elapsed time                 :   No
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: Inplace decryption for clear buffer  :   Yes
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: Frame Assembly                       :   Yes
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: Scratch buffer size                  :   4194304
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: Decrypt hash tests                   :   No
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: Secure buffer tests                  :   No
+06-05 18:21:52.082   991 13981 I QCOM-OEMCrypto: ----------------------------------------------------------------
+06-05 18:21:52.087   609   647 D DrmLibTime: got the req here! ret=0
+06-05 18:21:52.087   609   647 D DrmLibTime: command id, time_cmd_id = 770
+06-05 18:21:52.087   609   647 D DrmLibTime: time_getutcsec starts!
+06-05 18:21:52.087   609   647 D DrmLibTime: QSEE Time Listener: time_getutcsec
+06-05 18:21:52.087   609   647 D DrmLibTime: QSEE Time Listener: get_utc_seconds
+06-05 18:21:52.087   609   647 D DrmLibTime: QSEE Time Listener: time_get_modem_time
+06-05 18:21:52.087   609   647 D DrmLibTime: QSEE Time Listener: Checking if ATS_MODEM is set or not.
+06-05 18:21:52.090   609   647 D QC-time-services: Lib:time_genoff_operation: pargs->base = 13
+06-05 18:21:52.090   609   647 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 2
+06-05 18:21:52.090   609   647 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 0
+06-05 18:21:52.090   609   647 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+06-05 18:21:52.091   850  1167 D QC-time-services: Daemon: Connection accepted:time_genoff
+06-05 18:21:52.092   850  7651 D QC-time-services: Daemon:Received base = 13, unit = 1, operation = 2,value = 0
+06-05 18:21:52.092   850  7651 D QC-time-services: Daemon:genoff_opr: Base = 13, val = 0, operation = 2
+06-05 18:21:52.092   850  7651 D QC-time-services: offset is: 1 for base: 13
+06-05 18:21:52.093   609   647 E QC-time-services: Receive Passed == base = 13, unit = 1, operation = 2, result = 0
+06-05 18:21:52.093   609   647 D DrmLibTime: QSEE Time Listener: ATS_MODEM is set. Try to retrieve it.
+06-05 18:21:52.093   850  1167 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+06-05 18:21:52.093   850  1167 D QC-time-services: Daemon: Connection accepted:time_genoff
+06-05 18:21:52.094   850  7655 D QC-time-services: Daemon:Received base = 13, unit = 1, operation = 1,value = 0
+06-05 18:21:52.094   850  7655 D QC-time-services: Daemon:genoff_opr: Base = 13, val = 0, operation = 1
+06-05 18:21:52.094   850  7655 D QC-time-services: Daemon: genoff get for 13
+06-05 18:21:52.094   850  7655 D QC-time-services: Daemon:Value read from QTimer mseconds = 9298283
+06-05 18:21:52.094   850  7655 D QC-time-services: Daemon:Value read from RTC mseconds on boot = 28120974000
+06-05 18:21:52.094   850  7655 D QC-time-services: Daemon:Value read from QTimer mseconds = 9298283
+06-05 18:21:52.094   850  7655 D QC-time-services: Daemon:Value read from generic offset = 1626294251302
+06-05 18:21:52.094   850  7655 D QC-time-services: Daemon:Delta read on boot mseconds = 28120961683
+06-05 18:21:52.094   850  7655 D QC-time-services: Daemon:Final Time = 1654424511268
+06-05 18:21:52.094   609   647 D DrmLibTime: QSEE Time Listener: Time GenOff - seconds: 1654424511
+06-05 18:21:52.094   609   647 D DrmLibTime: time_getutcsec returns 0, sec = 1654424511; nsec = 0
+06-05 18:21:52.094   609   647 D DrmLibTime: time_getutcsec finished!
+06-05 18:21:52.094   609   647 D DrmLibTime: iotcl_continue_command finished! and return 0
+06-05 18:21:52.094   609   647 D DrmLibTime: before calling ioctl to read the next time_cmd
+06-05 18:21:52.095   850  1167 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+06-05 18:21:52.145  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10291, uidState = 11
+06-05 18:21:52.153  1850  2634 I MiuiNetworkPolicy: updateUidState uid = 10291, uidState = 19
+06-05 18:21:52.170   991 13981 I QCOM-OEMCrypto: Allocated all scratch buffers
+06-05 18:21:52.170   991 13981 I QCOM-OEMCrypto: LibOEMCrypto version 1.30
+06-05 18:21:52.170   991 13981 I QCOM-OEMCrypto: TA   version 1.89
+06-05 18:21:52.170   991 13981 I QCOM-OEMCrypto: Api  version 16.3
+06-05 18:21:52.181   991 13981 W WVCdm   : [oemcrypto_adapter_dynamic.cpp(994):LoadLevel1] Could not load L1 _oecc113.
+06-05 18:21:52.181   991 13981 W WVCdm   : [oemcrypto_adapter_dynamic.cpp(995):LoadLevel1] Could not load L1 _oecc114.
+06-05 18:21:52.181   991 13981 D WVCdm   : [oemcrypto_adapter_dynamic.cpp(814):Initialize] OEMCrypto_Initialize Level 1 success. I will use level 1.
+06-05 18:21:52.181   991 13981 I WVCdm   : [oemcrypto_adapter_dynamic.cpp(817):Initialize] Level 1 Build Info (v16): Build Information: API_Version: 16.3 LibOEMCrypto_Version: 1.30 TA_Version: 1.89
+06-05 18:21:52.184   991 13981 D WVCdm   : [crypto_session.cpp(334):Init] OEMCrypto version (default security level): 16.3
+06-05 18:21:52.184   991 13981 D WVCdm   : [crypto_session.cpp(343):Init] OEMCrypto version (L3 security level): 16.3
+06-05 18:21:52.184   991 13981 D WVCdm   : [crypto_session.cpp(763):Open] Opening crypto session: requested_security_level = Default
+06-05 18:21:52.186   991 13981 I QCOM-OEMCrypto: Open session: 1000
+06-05 18:21:52.187   991 13981 I WVCdm   : [usage_table_header.cpp(159):Init] Initializing usage table header: security_level = 1
+06-05 18:21:52.187   991 13981 D WVCdm   : [usage_table_header.cpp(188):Init] Usage table capacity is unlimited: security_level = 1
+06-05 18:21:52.192   991 13981 I WVCdm   : [usage_table_header.cpp(212):Init] Number of usage entries: 0
+06-05 18:21:52.207  1850  2634 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=2
+06-05 18:21:52.218  4385  4385 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+06-05 18:21:52.251   991 13981 I QCOM-OEMCrypto: Closed session: 1000
+06-05 18:21:52.253   991   991 E WVCdm   : [wv_content_decryption_module.cpp(389):GetMetrics] Cdm Identifier not found
+06-05 18:21:52.255   991   991 E WVCdm   : [wv_content_decryption_module.cpp(449):CloseCdm] Cdm Identifier not found
+06-05 18:21:52.255   991   991 E WVCdm   : Failed to close cdm. status 12
+06-05 18:21:52.258   991   991 I WVCdm   : [(0):] L3 Terminate.
+06-05 18:21:52.258   991   991 I QCOM-OEMCrypto: OEMCrypto_Terminate
+06-05 18:21:52.261   991   991 I QCOM-OEMCrypto: Freed all scratch buffers
+06-05 18:21:52.263   991   991 D QSEECOMAPI: QSEECom_dealloc_memory
+06-05 18:21:52.263   991   991 D QSEECOMAPI: QSEECom_shutdown_app, app_id = 116
+06-05 18:21:52.271  7276  7356 I android:channe: Waiting for a blocking GC ClassLinker
+06-05 18:21:52.337  7276  7356 I android:channe: WaitForGcToComplete blocked ClassLinker on Background for 66.238ms
+06-05 18:21:52.358  7276  7356 W android:channe: Class com.alibaba.one.android.inner.BroadcastReceiverJniBridge failed lock verification and will run slower.
+06-05 18:21:52.358  7276  7356 W android:channe: Common causes for lock verification issues are non-optimized dex code
+06-05 18:21:52.358  7276  7356 W android:channe: and incorrect proguard optimizations.
+06-05 18:21:52.387  1850  5955 W ServiceManager: Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10269 pid=7276
+06-05 18:21:52.430   991   991 I WVCdm   : [app][com.lazada.android:channel] calling virtual Return<void> wvdrm::hardware::drm::V1_3::widevine::WVDrmFactory::createPlugin(const hidl_array<uint8_t, 16> &, const android::hardware::hidl_string &, android::hardware::drm::V1_3::IDrmFactory::createPlugin_cb)
+06-05 18:21:52.430   991   991 D WVCdm   : Instantiating CDM.
+06-05 18:21:52.431   991   991 I WVCdm   : [cdm_engine.cpp(563):QueryStatus] Querying status
+06-05 18:21:52.431   991   991 I WVCdm   : [oemcrypto_adapter_dynamic.cpp(781):Initialize] Level 3 Build Info (v16): OEMCrypto Level3 Code 22590 May 28 2021 19:37:25
+06-05 18:21:52.432   991  7670 I WVCdm   : [(0):] Level3 Library 22590 May 28 2021 19:37:25
+06-05 18:21:52.437   991   991 I WVCdm   : [oemcrypto_adapter_dynamic.cpp(795):Initialize] L3 Initialized. Trying L1.
+06-05 18:21:52.437   991   991 I QCOM-OEMCrypto: OEMCrypto_Initialize
+06-05 18:21:52.437   991   991 D QSEECOMAPI: QSEECom_get_handle sb_length = 0x64000
+06-05 18:21:52.437   991   991 D QSEECOMAPI: App is not loaded in QSEE
+06-05 18:21:52.437   991   991 E QSEECOMAPI: Error::Cannot open the file /vendor/firmware_mnt/image/widevine.mdt errno = 2
+06-05 18:21:52.437   991   991 E QSEECOMAPI: Error::Loading image failed with ret = -1
+06-05 18:21:52.442   991   991 D QSEECOMAPI: QSEECom_get_handle sb_length = 0x64000
+06-05 18:21:52.442   991   991 D QSEECOMAPI: App is not loaded in QSEE
+06-05 18:21:52.463  3019  3019 D InterruptionStateProvider: No bubble up: not allowed to bubble: -1|android|26|null|1000
+06-05 18:21:52.464  3019  3019 D InterruptionStateProvider: No bubble up: not allowed to bubble: 0|cz.appmine.poetizer|87527509|null|10291
+06-05 18:21:52.464  3019  3019 D InterruptionStateProvider: No bubble up: not allowed to bubble: -1|android|27|null|1000
+06-05 18:21:52.475   991   991 D QSEECOMAPI: Loaded image: APP id = 117
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: ---------------Widevine OEMCrypto configuration-----------------
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: TA-HLOS interface                    :   QSEECOM
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: Crypto Engine SMMU Virtual Address   :   Yes
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: Measure elapsed time                 :   No
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: Inplace decryption for clear buffer  :   Yes
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: Frame Assembly                       :   Yes
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: Scratch buffer size                  :   4194304
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: Decrypt hash tests                   :   No
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: Secure buffer tests                  :   No
+06-05 18:21:52.477   991   991 I QCOM-OEMCrypto: ----------------------------------------------------------------
+06-05 18:21:52.478   609   647 D DrmLibTime: got the req here! ret=0
+06-05 18:21:52.478   609   647 D DrmLibTime: command id, time_cmd_id = 770
+06-05 18:21:52.478   609   647 D DrmLibTime: time_getutcsec starts!
+06-05 18:21:52.478   609   647 D DrmLibTime: QSEE Time Listener: time_getutcsec
+06-05 18:21:52.478   609   647 D DrmLibTime: QSEE Time Listener: get_utc_seconds
+06-05 18:21:52.478   609   647 D DrmLibTime: QSEE Time Listener: time_get_modem_time
+06-05 18:21:52.478   609   647 D DrmLibTime: QSEE Time Listener: Checking if ATS_MODEM is set or not.
+06-05 18:21:52.478   609   647 D QC-time-services: Lib:time_genoff_operation: pargs->base = 13
+06-05 18:21:52.478   609   647 D QC-time-services: Lib:time_genoff_operation: pargs->operation = 2
+06-05 18:21:52.478   609   647 D QC-time-services: Lib:time_genoff_operation: pargs->ts_val = 0
+06-05 18:21:52.478   609   647 D QC-time-services: Lib:time_genoff_operation: Send to server  passed!!
+06-05 18:21:52.478   850  1167 D QC-time-services: Daemon: Connection accepted:time_genoff
+06-05 18:21:52.480   850  7671 D QC-time-services: Daemon:Received base = 13, unit = 1, operation = 2,value = 0
+06-05 18:21:52.480   850  7671 D QC-time-services: Daemon:genoff_opr: Base = 13, val = 0, operation = 2
+06-05 18:21:52.480   850  7671 D QC-time-services: offset is: 1 for base: 13
+06-05 18:21:52.480   609   647 E QC-time-services: Receive Passed == base = 13, unit = 1, operation = 2, result = 0
+06-05 18:21:52.480   609   647 D DrmLibTime: QSEE Time Listener: ATS_MODEM is set. Try to retrieve it.
+06-05 18:21:52.481   850  1167 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+06-05 18:21:52.481   850  1167 D QC-time-services: Daemon: Connection accepted:time_genoff
+06-05 18:21:52.482   850  7672 D QC-time-services: Daemon:Received base = 13, unit = 1, operation = 1,value = 0
+06-05 18:21:52.482   850  7672 D QC-time-services: Daemon:genoff_opr: Base = 13, val = 0, operation = 1
+06-05 18:21:52.482   850  7672 D QC-time-services: Daemon: genoff get for 13
+06-05 18:21:52.482   850  7672 D QC-time-services: Daemon:Value read from QTimer mseconds = 9298671
+06-05 18:21:52.482   850  7672 D QC-time-services: Daemon:Value read from RTC mseconds on boot = 28120974000
+06-05 18:21:52.482   850  7672 D QC-time-services: Daemon:Value read from QTimer mseconds = 9298671
+06-05 18:21:52.482   850  7672 D QC-time-services: Daemon:Value read from generic offset = 1626294251302
+06-05 18:21:52.482   850  7672 D QC-time-services: Daemon:Delta read on boot mseconds = 28120961683
+06-05 18:21:52.482   850  7672 D QC-time-services: Daemon:Final Time = 1654424511656
+06-05 18:21:52.482   609   647 D DrmLibTime: QSEE Time Listener: Time GenOff - seconds: 1654424511
+06-05 18:21:52.482   609   647 D DrmLibTime: time_getutcsec returns 0, sec = 1654424511; nsec = 0
+06-05 18:21:52.482   609   647 D DrmLibTime: time_getutcsec finished!
+06-05 18:21:52.482   609   647 D DrmLibTime: iotcl_continue_command finished! and return 0
+06-05 18:21:52.482   609   647 D DrmLibTime: before calling ioctl to read the next time_cmd
+06-05 18:21:52.484   850  1167 E QC-time-services: Daemon: Time-services: Waiting to acceptconnection
+06-05 18:21:52.514   991   991 I QCOM-OEMCrypto: Allocated all scratch buffers
+06-05 18:21:52.514   991   991 I QCOM-OEMCrypto: LibOEMCrypto version 1.30
+06-05 18:21:52.514   991   991 I QCOM-OEMCrypto: TA   version 1.89
+06-05 18:21:52.514   991   991 I QCOM-OEMCrypto: Api  version 16.3
+06-05 18:21:52.514   991   991 W WVCdm   : [oemcrypto_adapter_dynamic.cpp(994):LoadLevel1] Could not load L1 _oecc113.
+06-05 18:21:52.514   991   991 W WVCdm   : [oemcrypto_adapter_dynamic.cpp(995):LoadLevel1] Could not load L1 _oecc114.
+06-05 18:21:52.514   991   991 D WVCdm   : [oemcrypto_adapter_dynamic.cpp(814):Initialize] OEMCrypto_Initialize Level 1 success. I will use level 1.
+06-05 18:21:52.514   991   991 I WVCdm   : [oemcrypto_adapter_dynamic.cpp(817):Initialize] Level 1 Build Info (v16): Build Information: API_Version: 16.3 LibOEMCrypto_Version: 1.30 TA_Version: 1.89
+06-05 18:21:52.515   991   991 D WVCdm   : [crypto_session.cpp(334):Init] OEMCrypto version (default security level): 16.3
+06-05 18:21:52.516   991   991 D WVCdm   : [crypto_session.cpp(343):Init] OEMCrypto version (L3 security level): 16.3
+06-05 18:21:52.516   991   991 D WVCdm   : [crypto_session.cpp(763):Open] Opening crypto session: requested_security_level = Default
+06-05 18:21:52.517   991   991 I QCOM-OEMCrypto: Open session: 1000
+06-05 18:21:52.518   991   991 I WVCdm   : [usage_table_header.cpp(159):Init] Initializing usage table header: security_level = 1
+06-05 18:21:52.518   991   991 D WVCdm   : [usage_table_header.cpp(188):Init] Usage table capacity is unlimited: security_level = 1
+06-05 18:21:52.518   991   991 I WVCdm   : [usage_table_header.cpp(212):Init] Number of usage entries: 0
+06-05 18:21:52.555   991   991 I QCOM-OEMCrypto: Closed session: 1000
+06-05 18:21:52.556   991   991 E WVCdm   : [wv_content_decryption_module.cpp(389):GetMetrics] Cdm Identifier not found
+06-05 18:21:52.557   991   991 E WVCdm   : [wv_content_decryption_module.cpp(449):CloseCdm] Cdm Identifier not found
+06-05 18:21:52.557   991   991 E WVCdm   : Failed to close cdm. status 12
+06-05 18:21:52.558   991   991 I WVCdm   : [(0):] L3 Terminate.
+06-05 18:21:52.558   991   991 I QCOM-OEMCrypto: OEMCrypto_Terminate
+06-05 18:21:52.560   991   991 I QCOM-OEMCrypto: Freed all scratch buffers
+06-05 18:21:52.560   991   991 D QSEECOMAPI: QSEECom_dealloc_memory
+06-05 18:21:52.560   991   991 D QSEECOMAPI: QSEECom_shutdown_app, app_id = 117
+06-05 18:21:52.562  7276  7667 I ValarMorghulis: 0ooo======3906^^^^/////////1752
+06-05 18:21:52.981  7276  7634 W SQLiteLog: (28) double-quoted string literal: "ip"
+06-05 18:21:52.981  7276  7634 W SQLiteLog: (28) double-quoted string literal: "result"
+06-05 18:21:53.209  2999  3462 D MI_RIL_OEM_HOOK: onPkHookCommonMsg, msg_id = 65
+06-05 18:21:53.209  2999  3462 D MI_RIL_OEM_HOOK: onGetHookMsgBytes, HOOK_HEAD_SIZE = 16, msg_len = 4
+06-05 18:21:53.209  2999  3462 D MI_RIL_OEM_HOOK: onHookSendSync, phoneId = 0
+06-05 18:21:53.210  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 1
+06-05 18:21:53.210  2930  2930 I QcrilOemhookMsgTunnel: [0]invokeOemRilRequestRaw: serial=2039 length=36
+06-05 18:21:53.251  1793  2006 D XIAOMI_QCRIL: RIL[lib][xiaomi_extend_nvefs.c:52] xiaomi_qmi_result_map: xiaomi_qmi_result_map, old_result 0, new_result 0
+06-05 18:21:53.253  2930  3267 I QcrilOemhookMsgTunnel: [0]processOemHookResponse serial no: 2039 error: 0length=16
+06-05 18:21:53.253  2930  2930 D QcrilMsgTunnelIfaceManager: handleMessage what = 2
+06-05 18:21:53.254  2999  3462 D QC_RIL_OEM_HOOK: sendOemRilRequestRaw returns value = 16
+06-05 18:21:53.254  2999  3462 D ModemSarController_8250: type = 65, len = 4, value = 0
+06-05 18:21:54.011  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5102058, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:54.011  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5102058, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:54.011  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5102058, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:54.012  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:54.012  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:54.025  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Hand_Ability_SpellPower_HintBurst(Clone)(Clone)
+06-05 18:21:54.026  2953  3093 I Unity   : [Spell Pooling]  Acquired: Card_Hand_Ability_SpellPower_Hint(Clone)(Clone)
+06-05 18:21:54.081  7392  7392 I System.out: 2022-06-05 18:21:54 [main] sdk.chat.core.session.ChatSDK.activate()
+06-05 18:21:54.082  7392  7392 I System.out: INFO: Module: FirebaseModule provided network adapter
+06-05 18:21:54.082  7392  7392 I System.out: 2022-06-05 18:21:54 [main] sdk.chat.core.session.ChatSDK.activate()
+06-05 18:21:54.082  7392  7392 I System.out: INFO: Module: UIModule provided interface adapter
+06-05 18:21:54.085  7392  7450 I FirebaseAuth: [FirebaseAuth:] Preparing to create service connection to fallback implementation
+06-05 18:21:54.148  7392  7392 I System.out: 2022-06-05 18:21:54 [main] sdk.chat.core.session.ChatSDK.activate()
+06-05 18:21:54.148  7392  7392 I System.out: INFO: Module FirebaseModule activated successfully
+06-05 18:21:54.148  7392  7392 I System.out: 2022-06-05 18:21:54 [main] sdk.chat.core.session.ChatSDK.activate()
+06-05 18:21:54.148  7392  7392 I System.out: INFO: Module FirebaseUploadModule activated successfully
+06-05 18:21:54.150  7392  7392 I System.out: 2022-06-05 18:21:54 [main] sdk.chat.core.session.ChatSDK.activate()
+06-05 18:21:54.150  7392  7392 I System.out: INFO: Module FirebasePushModule activated successfully
+06-05 18:21:54.153  7392  7392 I System.out: 2022-06-05 18:21:54 [main] sdk.chat.core.session.ChatSDK.activate()
+06-05 18:21:54.153  7392  7392 I System.out: INFO: Module FirebaseTypingIndicatorModule activated successfully
+06-05 18:21:54.155  7392  7392 I System.out: 2022-06-05 18:21:54 [main] sdk.chat.core.session.ChatSDK.activate()
+06-05 18:21:54.155  7392  7392 I System.out: INFO: Module FirebaseUIModule activated successfully
+06-05 18:21:54.155  7392  7392 I System.out: 2022-06-05 18:21:54 [main] sdk.chat.core.session.ChatSDK.activate()
+06-05 18:21:54.155  7392  7392 I System.out: INFO: Module UIModule activated successfully
+06-05 18:21:54.155  7392  7450 W System  : Ignoring header X-Firebase-Locale because its value was null.
+06-05 18:21:54.168  7392  7690 I System.out: 2022-06-05 18:21:54 [RxComputationThreadPool-2] sdk.chat.firebase.adapter.FirebaseAuthenticationHandler.completeAuthentication()
+06-05 18:21:54.168  7392  7690 I System.out: INFO: Authentication complete! name = monostitches, id = Ahg1oh6NgwQjsywQao8uB3dxbQx1
+06-05 18:21:54.325  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5102372, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:54.337  3143  7277 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+06-05 18:21:54.338  3143  7277 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@221514044@22.15.14 (190400-441847897):2)
+06-05 18:21:54.338  3143  7277 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@221514044@22.15.14 (190400-441847897):0)
+06-05 18:21:54.406  3143  7277 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+06-05 18:21:54.407  3143  7277 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@221514044@22.15.14 (190400-441847897):2)
+06-05 18:21:54.407  3143  7277 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@221514044@22.15.14 (190400-441847897):0)
+06-05 18:21:54.668  7392  7450 D FirebaseAuth: Notifying id token listeners about user ( Ahg1oh6NgwQjsywQao8uB3dxbQx1 ).
+06-05 18:21:54.670  7392  7450 W System  : Ignoring header X-Firebase-Locale because its value was null.
+06-05 18:21:55.072  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5103119, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:55.072  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5103119, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:55.072  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5103119, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:55.073  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:55.073  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:55.154  5883  7054 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@a529c6
+06-05 18:21:55.164  5883  6281 I A       : Response = # com.google.at.i.a.c.a.e@f781588b
+06-05 18:21:55.190  7552  7931 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: -1
+06-05 18:21:55.191  2999  2999 D DynamicService:  ACTION_BATTERY_CHANGED change,USB plug = 2
+06-05 18:21:55.192  6316  6316 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+06-05 18:21:55.194  7552  7857 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 56, status = 2, level = 56, plug = 2, scale = 100
+06-05 18:21:55.194  7552  7645 D PowerKeeper.Thermal: mBatteryTemperature: 42
+06-05 18:21:55.197  2992  2992 V DeviceStatisticsService: chargerType=2 batteryLevel=56 totalBatteryCapacity=4253900
+06-05 18:21:55.198  2992  2992 D DeviceInfoHidlClient: isRadioOn()=true
+06-05 18:21:55.198  2992  2992 I DeviceInfoHidlClient: isPowerInfoNeverSent=false batteryLevel=56 batteryLevelIndex=2 chargingMode=2 totalCapacity=4253900 powerSaveMode=false
+06-05 18:21:55.199  5883  7054 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@67065d9
+06-05 18:21:55.200  5883  7054 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@bb9ab9e
+06-05 18:21:55.208  5883  6207 I A       : Response = # com.google.at.i.a.c.a.e@f781588b
+06-05 18:21:55.210  5883  6207 I A       : Response = # com.google.at.i.a.c.a.e@f781588b
+06-05 18:21:55.210  5883  6125 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=de2afc94-9436-497a-8c94-ce606201b6e0, tags={ com.google.apps.tiktok.contrib.work.TikTokListenableWorker, TikTokWorker#com.google.apps.tiktok.sync.impl.workmanager.SyncWorker } ]
+06-05 18:21:55.244  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x1, 5103291, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:55.315  6986  7024 E TestRunner: failed: clicking_horizontal_list_button_displays_horizontal_list(com.example.dogglers.ButtonTests)
+06-05 18:21:55.315  6986  7024 E TestRunner: ----- begin exception -----
+06-05 18:21:55.316  6986  7024 E TestRunner: java.lang.AssertionError: Activity never becomes requested state "[RESUMED, STARTED, CREATED, DESTROYED]" (last lifecycle transition = "PRE_ON_CREATE")
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at androidx.test.core.app.ActivityScenario.waitForActivityToBecomeAnyOf(ActivityScenario.java:338)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launchInternal(ActivityScenario.java:272)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launch(ActivityScenario.java:195)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.lambda$new$0$ActivityScenarioRule(ActivityScenarioRule.java:70)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule$$Lambda$0.get(ActivityScenarioRule.java:70)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.before(ActivityScenarioRule.java:103)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:46)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+06-05 18:21:55.316  6986  7024 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2248)
+06-05 18:21:55.316  6986  7024 E TestRunner: ----- end exception -----
+06-05 18:21:55.316  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5103363, channel '613871d com.miui.securitycenter (server)'
+06-05 18:21:55.316  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x4, 5103363, channel 'ef6ede1 com.miui.securitycenter (server)'
+06-05 18:21:55.316  1850  2553 D MIUIInput: [MotionEvent] publisher action=0x0, 5103363, channel '1b9faa8 com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity (server)'
+06-05 18:21:55.317  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowfalse
+06-05 18:21:55.317  7693  7693 I GameBoxTouchListener: onTouch: 	mAdded=false	isLeftShowtrue
+06-05 18:21:55.317  6986  7024 I TestRunner: finished: clicking_horizontal_list_button_displays_horizontal_list(com.example.dogglers.ButtonTests)
